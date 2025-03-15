@@ -32,6 +32,7 @@ The analysis integrates multiple datasets, each contributing to the broader pric
 - **Region-Specific Analysis:** Midwest/South, National, South/Midwest, West National.
 
 ### **Supplementary Datasets**
+
 1️⃣ **Loyalty & Brand Switching Data** → Captures consumer **repeat purchases vs. switching behavior**.
 2️⃣ **Perceived Price vs. Actual Price Data** → Analyzes **price anchoring bias & perception gaps**.
 3️⃣ **Price Sensitivity Score Data** → Measures **pricing elasticity per retailer & brand**.
