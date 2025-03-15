@@ -39,3 +39,22 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 - Tracks total revenue by retailer, brand, and region.
 - Used in Total Sales by Brand visualization to compare brand market share.
 - Supports revenue trend analysis for inflation-adjusted pricing models
+
+### 2️⃣ Unique Retailers Measure
+This measure counts the number of **distinct retailers** in the dataset.
+
+#### **DAX Code:**
+```DAX
+Unique_Retailers = DISTINCTCOUNT(Cereal_Sales_Pricing_Dataset_Corrected[Retailer])
+
+## How its Used 
+- Ensures **all retailers** are properly accounted for.
+- Supports retailer-specific analysis & segmentation.
+- Helps **validate data integrity** by ensuring no duplicate retailer entries.
+- Used in dashboards to analyze Retailer Product Offerings & Exclusivity trends.
+
+### Why These Measures are **Critical** ?
+- ✅ Total Sales Calculation → Provides key revenue insights for pricing impact analysis.
+- ✅ Unique Retailers Measure → Validates data integrity and helps analyze retailer exclusivity strategies.
+- ✅ Retailer_Batch_Key → Ensures efficient data structuring and enhances model performance.
+
