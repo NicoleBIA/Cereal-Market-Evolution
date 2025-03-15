@@ -34,9 +34,13 @@ The analysis integrates multiple datasets, each contributing to the broader pric
 ### **Supplementary Datasets**
 
 1️⃣ **Loyalty & Brand Switching Data** → Captures consumer **repeat purchases vs. switching behavior**.
+
 2️⃣ **Perceived Price vs. Actual Price Data** → Analyzes **price anchoring bias & perception gaps**.
+
 3️⃣ **Price Sensitivity Score Data** → Measures **pricing elasticity per retailer & brand**.
+
 4️⃣ **AI-Driven Price Projection Data** → Forecasts future price trends **using CPI & historical data**.
+
 5️⃣ **CPI Inflation Data (QoQ & YoY)** → Used for **macroeconomic comparison**.
 
 ## 🔗 **Power BI Data Model & Relationships**
