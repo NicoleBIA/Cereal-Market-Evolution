@@ -34,6 +34,7 @@ This measure calculates **total revenue**, multiplying unit price by sales volum
 #### **DAX Code:**
 ```DAX
 Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sales_Pricing_Dataset_Corrected[Sales_Volume_Units])
+```
 
 ## Use Case and Purpose
 - Tracks total revenue by retailer, brand, and region.
@@ -48,7 +49,7 @@ This measure counts the number of **distinct retailers** in the dataset.
 Unique_Retailers = DISTINCTCOUNT(Cereal_Sales_Pricing_Dataset_Corrected[Retailer])
 ```
 
-## How its Used 
+## Use Case and Purpose
 - Ensures **all retailers** are properly accounted for.
 - Supports retailer-specific analysis & segmentation.
 - Helps **validate data integrity** by ensuring no duplicate retailer entries.
