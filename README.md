@@ -48,7 +48,7 @@ The project leverages **Power BI** for advanced analytics and interactive visual
 - **Cereal Sales Dataset** (Primary) ↔ **AI-Driven Price Projections** (One-to-Many)
 - **Cereal Sales Dataset** (Primary) ↔ **CPI Inflation Data** (One-to-One, Quarter-Based)
 
-For a deep dive into Power BI’s **data model, measures, and relationships**, refer to: 📂 [`PowerBI_Data_Model_Overview.md`](./PowerBI/PowerBI_Data_Model_Overview.md).
+For a deep dive into Power BI’s **data model, measures, and relationships**, refer to: 📂 [Power BI Data Model Overview](PowerBI/PowerBI_Data_Model_Overview.md)
 
 ## 📈 **Key Insights & Preliminary Findings**
 ### **1️⃣ Retailer Pricing Strategies & Product Exclusivity**
