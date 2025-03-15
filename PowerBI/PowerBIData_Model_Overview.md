@@ -45,7 +45,8 @@ This measure counts the number of **distinct retailers** in the dataset.
 
 #### **DAX Code:**
 ```DAX
-Unique_Retailers = DISTINCTCOUNT(Cereal_Sales_Pricing_Dataset_Corrected[Retailer])```
+Unique_Retailers = DISTINCTCOUNT(Cereal_Sales_Pricing_Dataset_Corrected[Retailer])
+```
 
 ## How its Used 
 - Ensures **all retailers** are properly accounted for.
