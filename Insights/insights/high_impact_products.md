@@ -17,6 +17,13 @@ Automated insights from Power BI reveal that a few key cereals play an outsized 
 - **Retailers and manufacturers can use this insight for targeted promotions or risk assessments.**
 - **If a best-seller declines, brands need contingency plans to prevent revenue loss.**
 
+## Visualizations: Brand Product Proportions vs. Total Sales (Absolute & Relative)
+
+![Total Sales by Brand - Absolute Value](https://github.com/NicoleBIA/Cereal-Market-Evolution/blob/main/Images/Total%20Sales%20by%20Brand%20Insights%20Absolute%20Value_.png?raw=true)
+
+![Total Sales by Brand - Proportions](https://github.com/NicoleBIA/Cereal-Market-Evolution/blob/main/Images/Total%20Sales%20by%20Brand%20Insights%20Proportions_.png?raw=true)
+
+
 ---
 
 ## 📌 Next Steps
