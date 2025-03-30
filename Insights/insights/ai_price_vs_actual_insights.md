@@ -3,13 +3,13 @@
 This analysis compares **AI Projected Pricing** against **Actual Pricing (Sum of Price USD)** across both **Retailers** and **Brands**, surfacing key behavioral and strategic patterns in execution.
 
 ---
-
 ## 📊 Visuals Included
 
 | Visual | File Name |
 |--------|-----------|
-![Retailer vs Projected Price Visual](/Insights/Sum_of_Price_Projected_Price_by_Retailer_Brand.png)
-![Regional Small Multiples Visual](/Insights/Sum_of_Price_Projected_Price__Regional_Small_Multiples.png)
+| Sum of Price vs Projected Price by Retailer and Brand | `Sum_of_Price_Projected_Price_by_Retailer_Brand.png` |
+| Regional Small Multiples – Sum of Price vs Projected Price | `Sum_of_Price_Projected_Price__Regional_Small_Multiples.png` |
+
 
 ---
 
