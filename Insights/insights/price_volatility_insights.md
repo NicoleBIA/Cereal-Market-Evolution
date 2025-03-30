@@ -37,6 +37,25 @@ Meanwhile, Walmart—while **most volatile** in pricing—still maintained **com
 
 ---
 
+🧠 **Narrative Insight: The Volatility Paradox**
+
+![Narrative Insight – The Volatility Paradox](../../Images/Narrative Insight_Volatility_Paradox.png)
+
+Power BI's AI-driven analysis reveals a striking insight: when total sales decline, the average price per ounce increases. This contradicts conventional consumer logic, which assumes prices rise due to high demand. Instead, the data shows that even in times of decreased demand and sales, prices go up.
+
+💡 **Model Highlights:**
+- A **drop of $1.29M in total sales** correlates with a **$0.01/oz increase** in price.
+- **Decreases in product-level price volatility** are also associated with **higher unit costs.**
+
+### 🧩 So what does this mean?
+
+This reveals **demand-agnostic pricing power**—prices are raised to **offset low demand**, not just to respond to high demand.
+
+It reinforces the **perception control** retailers exercise: **prices may appear stable**, but unit costs can quietly rise. This behavior supports **margin recovery without price visibility** to the consumer.
+
+> **Volatility isn’t just about price movement—it’s about behavioral economics, margin strategies, and psychological misdirection.**
+
+
 ## 🧠 Key Takeaway:
 > **When prices don’t move, they often move *against* the shopper.**  
 Whether due to **lower demand** or **infrequent pricing updates**, less activity is associated with **higher average prices**.
