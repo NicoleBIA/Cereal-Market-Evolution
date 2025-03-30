@@ -16,7 +16,7 @@ As total sales decrease and price volatility drops, the **average price per ounc
 - As price volatility **decreases**, average price per ounce **increases**.
 - Retailers with “stable” pricing (like Costco) often show **higher per-unit costs**, despite appearing more predictable.
 
-![Price Volatility and Key Influencers](../../Images/Price_Volatility_and_Key_Influencers.png)
+![Price Volatility and Key Influencers](../../Images/Price_Volatility_and_Key_Influencers.png.png)
 
 ---
 
