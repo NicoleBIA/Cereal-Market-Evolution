@@ -1,41 +1,44 @@
-# 💹 Price Volatility & Key Influencers: Understanding Consumer Cost
+# 📉 Price Volatility & Influencer Insights: Sales Volume and Consumer Cost
 
-### 🧠 Key Finding: Lower Volatility Doesn’t Mean Lower Prices
+### 💡 Key Finding: Lower Activity Often Means Higher Prices
 
-This visual combines **Price Volatility by Retailer** with **Key Influencer analysis**, revealing that:
-
-- **As total sales decrease**, the **average price per ounce increases**  
-- **As price volatility decreases**, the **average price per ounce increases**
-
-While stability may seem beneficial, **stable prices often reflect higher unit costs**—especially among warehouse clubs.
+As total sales decrease and price volatility drops, the **average price per ounce increases**. Power BI Key Influencer visuals reveal that both **lower sales volume** and **reduced price volatility** correlate with higher unit costs across retailers.
 
 ---
 
-### 🟨 Insight 1: Price Volatility Across Retailers
+## 🧠 Insight 1: What Drives Price Per Ounce Increases?
 
-![Price Volatility and Key Influencers](../../Images/Price Volatility and Key Influencers.png)
+### Key Influencer – Sales Volume
+- When total sales **decrease**, average price per ounce **increases**.
+- This inverse relationship suggests that reduced consumer activity (lower demand) leads to **less price competition**, pushing unit costs upward.
 
-Retailer-level volatility scores:
-- **Walmart:** 7.50 (most price changes)
-- **Target:** 7.48  
-- **Kroger:** 7.46  
-- **Sam’s Club:** 7.44  
-- **Amazon Fresh:** 7.42  
-- **Costco:** 7.41 (least volatile)
+### Key Influencer – Price Volatility
+- As price volatility **decreases**, average price per ounce **increases**.
+- Retailers with “stable” pricing (like Costco) often show **higher per-unit costs**, despite appearing more predictable.
 
-Warehouse clubs (Costco, Sam’s) offer fewer price changes—but their price per ounce may be *higher*, as shown in prior visuals.
+![Price Volatility and Key Influencers](../../Images/Price_Volatility_and_Key_Influencers.png)
 
 ---
 
-### 💡 Insight: Price Volatility, Sales Volume & Consumer Cost
+## 🔎 Price Volatility Ranking by Retailer
 
-**As total sales decrease and price volatility drops, the average price per ounce tends to increase.**  
-Even when prices appear “stable,” consumers may pay more per unit. Retailers like **Costco**, known for consistent pricing, showed the **lowest volatility but among the highest $/oz** for certain products.
+| Retailer       | Price Volatility |
+|----------------|------------------|
+| **Walmart**     | 7.50             |
+| Target         | 7.48             |
+| Kroger         | 7.46             |
+| Sam’s Club     | 7.45             |
+| Amazon Fresh   | 7.43             |
+| **Costco**      | 7.41             |
 
-Meanwhile, **Walmart**, with the highest price volatility, still offered slightly more competitive per-ounce pricing due to frequent adjustments and promotions.
+Despite having the **lowest volatility**, Costco exhibited **some of the highest $/oz values** in the dataset, especially for select national brand cereals.
+
+Meanwhile, Walmart—while **most volatile** in pricing—still maintained **competitive unit prices**, likely due to more frequent promotions and adjustments.
 
 ---
 
-### 🧠 Key Takeaway:
-> Whether due to **lower demand** or **less frequent price updates**, the data shows that **less activity often means higher prices.**  
-> In short: **When prices don’t move, they often move *against* the shopper.**
+## 🧠 Key Takeaway:
+> **When prices don’t move, they often move *against* the shopper.**  
+Whether due to **lower demand** or **infrequent pricing updates**, less activity is associated with **higher average prices**.
+
+This reinforces the strategic benefit of **price dynamism**—for both retailers and consumers.
