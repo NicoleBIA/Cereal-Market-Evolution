@@ -39,7 +39,7 @@ Meanwhile, Walmart—while **most volatile** in pricing—still maintained **com
 
 🧠 **Narrative Insight: The Volatility Paradox**
 
-![Narrative Insight – The Volatility Paradox](../../Images/Narrative Insight_Volatility_Paradox.png)
+![Narrative Insight – The Volatility Paradox](../../Images/narrative_insight_volatility_paradox.png)
 
 Power BI's AI-driven analysis reveals a striking insight: when total sales decline, the average price per ounce increases. This contradicts conventional consumer logic, which assumes prices rise due to high demand. Instead, the data shows that even in times of decreased demand and sales, prices go up.
 
