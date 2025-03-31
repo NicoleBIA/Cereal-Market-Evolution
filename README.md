@@ -1,7 +1,10 @@
-# Cereal-Market-Evolution 
-A Business Intelligence &amp; AI-Driven Market Strategy project analyzing cereal pricing, inflation trends, consumer behavior, and brand-switching insights from 2020-present.
+# 🥣 Cereal-Market-Evolution: Strategic Pricing, Inflation & AI-Driven Insights
 
-# Cereal Market Evolution: Pricing, Inflation & AI-Driven Consumer Strategy
+> AI-Driven pricing intelligence through behavior economics and business analytics. A Market Strategy and market intelligence project analyzing cereal pricing, inflation trends, consumer behavior, psychology and brand-switching insights from 2020- March 2025.
+
+**Tags:**  
+#DataGovernance  #EthicalAnalytics  #BIProjects  #PowerBI  
+#SyntheticData  #StrategicPricing  #ConsumerPsychology #BehaviroEconomic
 
 ##  **Project Overview**
 The **Cereal Market Evolution** project is a **Business Intelligence & AI-Driven Market Strategy** initiative that analyzes **cereal pricing, inflation trends, consumer behavior, and brand-switching insights from 2020 to present**. This study helps retailers and Consumer Packaged Goods (CPG) companies understand:
