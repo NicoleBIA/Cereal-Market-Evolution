@@ -16,6 +16,14 @@ The **Cereal Market Evolution** project is a **Business Intelligence & AI-Driven
 - **AI-Driven Forecasting:** Predicting future pricing trends based on economic indicators.
 - **Shrinkflation & Retailer Strategies:** Identifying product downsizing trends and SKU adjustments.
 
+![Behavioral Economics Powered](https://img.shields.io/badge/Behavioral%20Economics-Powered-df29c7?style=for-the-badge&logo=brains&logoColor=white)
+![Ethical Analytics Verified](https://img.shields.io/badge/Ethical%20Analytics-Verified-38b6ff?style=for-the-badge&logo=leaf&logoColor=white)
+![Strategic Pricing Intelligence](https://img.shields.io/badge/Strategic%20Pricing-Intelligence-680d6d?style=for-the-badge&logo=chart-line&logoColor=white)
+![Data Governance Compliant](https://img.shields.io/badge/Data%20Governance-Compliant-210850?style=for-the-badge&logo=shield-check&logoColor=white)
+![AI-Driven Insights](https://img.shields.io/badge/AI--Driven-Insights-df29c7?style=for-the-badge&logo=ai&logoColor=white)
+
+---
+
 ##  Key Project Highlights
 
 [![Ethical Analytics](https://img.shields.io/badge/Ethical%20Analytics-Verified-purple?style=flat-square)](#data-governance-security--ethics)
