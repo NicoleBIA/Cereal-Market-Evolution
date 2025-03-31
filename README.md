@@ -5,7 +5,7 @@ _Powered by ethical analytics, AI forecasting, and real-world pricing strategy â
 
 **Tags:**  
 #DataGovernance  #EthicalAnalytics  #BIProjects  #PowerBI  
-#SyntheticData  #StrategicPricing  #ConsumerPsychology #BehaviroEconomic
+#SyntheticData  #StrategicPricing  #ConsumerPsychology #BehaviroEconomics
 
 ##  **Project Overview**
 The **Cereal Market Evolution** project is a **Business Intelligence & AI-Driven Market Strategy** initiative that analyzes **cereal pricing, inflation trends, consumer behavior, and brand-switching insights from 2020 to present**. This study helps retailers and Consumer Packaged Goods (CPG) companies understand:
