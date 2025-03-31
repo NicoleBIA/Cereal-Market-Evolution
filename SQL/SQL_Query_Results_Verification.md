@@ -21,4 +21,7 @@ SQL queries were executed in SSMS and verified with visual inspection and screen
 
 ### 🔍 SQL Query
 ```sql
-EXEC sp_help 'dbo.Cereal_Sales_Pricing_Dataset';
+EXEC sp_help 'dbo.Cereal_Sales_Pricing_Dataset';``` 
+
+##2️⃣ Promotions_Table
+
