@@ -1,4 +1,6 @@
-# 🥣 Cereal-Market-Evolution: Strategic Pricing, Inflation & AI-Driven Insights
+# Cereal-Market-Evolution: Strategic Pricing, Inflation & AI-Driven Insights
+![Ethical Analytics](https://img.shields.io/badge/Ethical%20Analytics-Verified-blueviolet)
+![Data Governance](https://img.shields.io/badge/Data%20Governance-Compliant-orange)
 
 > AI-Driven pricing intelligence through behavior economics and business analytics. A Market Strategy and market intelligence project analyzing cereal pricing, inflation trends, consumer behavior, psychology and brand-switching insights from 2020- March 2025.
 
