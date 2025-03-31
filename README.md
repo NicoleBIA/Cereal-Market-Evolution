@@ -11,6 +11,25 @@ The **Cereal Market Evolution** project is a **Business Intelligence & AI-Driven
 - **AI-Driven Forecasting:** Predicting future pricing trends based on economic indicators.
 - **Shrinkflation & Retailer Strategies:** Identifying product downsizing trends and SKU adjustments.
 
+##  Key Project Highlights
+
+[![Ethical Analytics](https://img.shields.io/badge/Ethical%20Analytics-Verified-purple?style=flat-square)](#data-governance-security--ethics)
+
+This project follows best practices for data handling, synthetic data simulation, and ethical insight storytelling.
+
+---
+
+## 🔐 <a name="data-governance-security--ethics"></a>Data Governance, Security & Ethics
+
+> 📁 **File:** `/PowerBI/Data_Governance_Security_Ethics.md`
+
+This section outlines the project’s simulated context, governance protocols, and ethical standards, including:
+- Transparency about synthetic data use  
+- Responsible visualization to avoid misrepresentation  
+- Professional handling of proprietary or business-critical information  
+- Alignment with real-world stakeholder expectations for confidentiality & trust  
+
+
 ## 📊 **Key Business Questions & Analysis Goals**
 This project investigates the following **critical business intelligence questions**:
 - How have **cereal prices changed over time** across different retailers?
@@ -72,15 +91,20 @@ For a deep dive into Power BI’s **data model, measures, and relationships**, r
 - High-price elasticity brands (e.g., **Kashi, Quaker**) are expected to see **lower demand shifts**.
 
 ## ⚙️ **Tools & Technologies Used**
+[![Data Governance Badge](https://img.shields.io/badge/Data%20Governance-Compliant-blueviolet?style=flat-square)](#data-governance-security--ethics)  
 - **Power BI** → Data visualization & interactive dashboards.
 - **DAX Queries** → Custom calculations for sales, price elasticity, and unique retailer counts.
 - **Python (Upcoming)** → Potential machine learning integration for advanced price prediction.
 
 ## 🗂 **Repository Structure**
 📂 `Documentation/` → Contains **all project-related documentation & insights**.
+
 📂 `PowerBI/` → **DAX Queries, Data Model Overview, and Power BI reports**.
+
 📂 `SQL/` → (Reserved for future database queries, if needed.)
+
 📂 `data/` → **All cleaned datasets & raw data used in this project**.
+
 📂 `Images/` → Screenshots & reference images for markdown files.
 
 ## **Future Roadmap & Next Steps**
