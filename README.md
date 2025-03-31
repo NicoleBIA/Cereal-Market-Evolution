@@ -109,8 +109,11 @@ For a deep dive into Power BI’s **data model, measures, and relationships**, r
 
 ## **Future Roadmap & Next Steps**
 ✅ **Expand Visualizations in Power BI** (Price elasticity, discount trends, consumer segmentation).
+
 ✅ **Refine AI-Driven Forecasting Model** (Integrate CPI trends into pricing insights).
+
 ✅ **Investigate Deep Brand Switching Patterns** (Which brands lose customers first during inflation?).
+
 ✅ **Consumer Behavior Heatmaps** (Potential integration into Power BI dashboard).
 
 ---
