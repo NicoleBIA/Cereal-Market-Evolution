@@ -10,18 +10,16 @@
 
 This documentation verifies the **structure and data quality** of the two key tables imported into SQL Server:
 
-- `dbo.Cereal_Sales_Pricing_Dataset`
-- `dbo.Promotions_Table`
+- `dbo.Cereal_Sales_Pricing_Dataset`  
+- `dbo.Promotions_Table`  
 
-SQL queries were executed in SSMS and verified with visual inspection and screenshots.
+SQL queries were executed in SSMS and validated through visual inspection and screenshots.
 
 ---
 
-## 1️⃣ `Cereal_Sales_Pricing_Dataset` – Column & Data Type Structure
+## 🔹 1. Table Structure Verification – `sp_help`
 
-### 🔍 SQL Query
+### 🧱 Table: `Cereal_Sales_Pricing_Dataset`
+
 ```sql
-EXEC sp_help 'dbo.Cereal_Sales_Pricing_Dataset';``` 
-
-##2️⃣ Promotions_Table
-
+EXEC sp_help 'dbo.Cereal_Sales_Pricing_Dataset';
