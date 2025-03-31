@@ -1,4 +1,4 @@
-#**"Cereal Market Evolution: Where Behavioral Economics Meets Strategic Pricing Intelligence."**  
+# **"Cereal Market Evolution: Where Behavioral Economics Meets Strategic Pricing Intelligence."**  
 _Powered by ethical analytics, AI forecasting, and real-world pricing strategy — one cereal box at a time._
 
 > AI-Driven pricing intelligence through behavior economics and business analytics. A Market Strategy and market intelligence project analyzing cereal pricing, inflation trends, consumer behavior, psychology and brand-switching insights from 2020- March 2025.
