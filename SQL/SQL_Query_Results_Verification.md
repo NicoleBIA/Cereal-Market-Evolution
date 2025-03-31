@@ -25,7 +25,7 @@ SQL queries were executed in SSMS and validated through visual inspection and sc
 EXEC sp_help 'dbo.Cereal_Sales_Pricing_Dataset';
 ```
 
-### 🧱 Table:
+### 🧱 Table: 
 
 ## 🔹 1.2 Table Structure Verification – `sp_help`
 
