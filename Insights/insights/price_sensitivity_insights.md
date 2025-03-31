@@ -4,15 +4,15 @@ This visual explores the relationship between **Price Sensitivity Scores** and *
 
 ---
 
-## 🎯 Purpose: Why This Insight Matters
+##  Purpose: Why This Insight Matters
 
 In an inflation-sensitive market, retailers who strategically **respond to pricing signals** tend to outperform. This chart highlights how **pricing responsiveness**, when coupled with high sales volume, is a **key driver of total revenue**. It provides CPGs and retailers with **a powerful benchmark** to evaluate executional performance and market positioning.
 
 ---
 
-## 📸 Visual Included
+##  Visual Included
 
-![Price Sensitivity vs. Total Sales by Retailer](../Images/Price_Sensitivity_Sales_Volume_Retailer.png)
+![Price Sensitivity vs. Total Sales by Retailer](../../Images/Price_Sensitivity_Sales_Volume_Retailer.png)
 
 ---
 
