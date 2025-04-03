@@ -23,6 +23,8 @@ Two product standouts — **Frosted Flakes** and **Berry Colossal Crunch** — r
   
  **Implication:** This suggests MOM Frosted Flakes has achieved loyalty parity (or dominance) over national brand equivalents, especially within Kroger stores.
 
+ ## ![MOM Loyalty & Switching 2024](../Images/MOM_Loyalty_Switching_Sales_2024.png)
+
 ---
 
 ### 2️⃣ MOM’s Berry Colossal Crunch (All Retailers, 2020–2025)
@@ -31,6 +33,8 @@ Two product standouts — **Frosted Flakes** and **Berry Colossal Crunch** — r
 - **Switch Frequency Score:** **0.53** → highest among MOM products, yet *still below industry switching norms*
   
  **Implication:** Berry Colossal Crunch functions as both a gateway product and loyalty anchor — possibly **cannibalizing Cap’n Crunch Berries (Quaker Oats)** due to identical flavor and packaging perception at a better price-per-ounce.
+
+ ## ![MOM Intra-Brand Rotation](../Images/MOM_Intrabrand_Rotation_Loyalty.png)
 
 ---
 
