@@ -1,8 +1,5 @@
 # 📊 Quaker Oats Company – Loyalty & Sales Performance (Cap’n Crunch Lineup)
 
-**Visual Reference:**  
-![Quaker Oats Loyalty & Sales Visual](../../Images/Quaker_Oats_Performance_LoyaltySales.png)
-
 ---
 
 ## 🥣 Overview
@@ -12,6 +9,9 @@ This insight explores **Quaker Oats Company's performance** within the cold cere
 Only two of the four cold cereal products from Quaker Oats (excluding granola) were included in this dataset:
 - Cap’n Crunch
 - Cap’n Crunch Berries
+
+  **Visual Reference:**  
+![Quaker Oats Loyalty & Sales Visual](../../Images/Quaker_Oats_Performance_LoyaltySales.png)
 
 ---
 
