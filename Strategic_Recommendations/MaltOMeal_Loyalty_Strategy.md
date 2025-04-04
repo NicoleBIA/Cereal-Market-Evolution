@@ -13,13 +13,13 @@ Understanding **brand stickiness versus price-driven switching** helps inform pr
 
 ---
 
-## 📊 Embedded Visuals
+## Embedded Visuals
 
 ### 🔹 Loyalty Sales Volume by Brand – 2024 (Kroger Focus)
-![Loyalty Sales Volume by Brand – 2024](../Visuals/Loyalty_Switching/loyalty_sales_volume_by_brand2_2024.png)
+![Loyalty Sales Volume](../Images/loyalty_sales_volume_by_brand2_2024.png)
 
-### 🔹 Malt-O-Meal Product-Level Loyalty & Switch Behavior
-![MOM Intra-Brand Loyalty Spotlight](../Visuals/Loyalty_Switching/mom_intra_brand_loyalty_spotlight2.png)
+### 🔹 MOM Product-Level Loyalty & Switch Behavior
+![MOM Loyalty Spotlight](../Images/mom_intra_brand_loyalty_spotlight2.png)
 
 ---
 
