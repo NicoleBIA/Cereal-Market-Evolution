@@ -1,4 +1,4 @@
-# 📊 Quaker Oats Company – Loyalty & Sales Performance (Cap’n Crunch Lineup)
+# Quaker Oats Company – Loyalty & Sales Performance (Cap’n Crunch Lineup)
 
 ---
 
