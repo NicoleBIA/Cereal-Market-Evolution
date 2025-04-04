@@ -52,7 +52,7 @@ This results in **anchored loyalty**, where buyers don’t view MOM as a downgra
 
 ### 🔹 For MOM (Post Consumer Brands)
 1. **Double Down on Product Stickiness**
-   - Promote hero products (like Honey Nut Toasted Oats) as “Smart Choice Favorites”
+   - Promote hero products (like Froted Flakes and Berry Colossal Crunch) as “Smart Choice Favorites”
    - Use in-store and digital ads to reinforce taste and value messaging
 
 2. **Expand Loyalty-Oriented Messaging**
