@@ -4,7 +4,7 @@
 
 ## Business Question / Purpose of Analysis
 
-**"How is Quaker Oats performing in brand loyalty and sales retention, and what competitive pressure is emerging from lower-priced alternatives like Malt-O-Meal?"**
+**How is Quaker Oats performing in brand loyalty and sales retention, and what competitive pressure is emerging from lower-priced alternatives like Malt-O-Meal?**
 
 This analysis aims to understand the **consumer loyalty landscape** for premium legacy brands like Quaker and assess whether **value-driven competition** is eroding market share — especially during inflationary cycles. By comparing Quaker’s loyalty metrics against budget brands, I identify strategic risks and recovery opportunities.
 
