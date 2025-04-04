@@ -4,7 +4,7 @@
 
 ## Business Question / Purpose of Analysis
 
-**"Which cereal brands show the highest consumer loyalty during inflationary periods, and how does this behavior vary across budget vs. premium or store-brand categories?"**
+**Which cereal brands show the highest consumer loyalty during inflationary periods, and how does this behavior vary across budget vs. premium or store-brand categories?**
 
 This analysis was designed to answer a core strategic question for both CPG firms and retailers:  
 > **Are budget-conscious shoppers loyal to low-cost cereal brands, or are they simply switching based on price?**  
