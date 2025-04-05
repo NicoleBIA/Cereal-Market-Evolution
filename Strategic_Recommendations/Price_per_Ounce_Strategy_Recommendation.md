@@ -60,7 +60,7 @@ Consumers make fast decisions based on what they *see* — not what they *pay*. 
 ---
 
 ## 📁 Files Referenced
-- [Average Brand Price and Package Price per Ounce.png](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
-- [Average Price per Ounce by Retailer.png](../../Images/Average%20Price%20per%20Ounce%20by%20Retailer.png)
+- [Average_Brand_Price_Package_Price_per_Ounce.png](../../Images/Average_Brand_Price_Package_Price_per_Ounce.png)
+- [Average_Price_per_Ounce_Retailer.png](../../Images/Average_Price_per_Ounce_Retailer.png)
 - [Average_Price_per_Ounce_FrootLoops_Kroger.png](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
