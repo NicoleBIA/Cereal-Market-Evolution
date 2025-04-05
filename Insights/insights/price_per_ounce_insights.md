@@ -8,7 +8,7 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 📁 **Filename:** `Average_Brand_Price__Package_Price_per__Ounce.png`
 
-![Brand Price per Ounce](../Images/Images/Average_Brand_Price__Package_Price_per__Ounce.png) 
+![Brand Price per Ounce](../Images/Images/Average_Brand_Price_Package_Price_per_Ounce.png) 
 
 ### 🔍 Key Insights:
 - Shelf price alone misleads. Store brands with low sticker prices (e.g., $2.97) often have **higher unit costs** than national brands.
