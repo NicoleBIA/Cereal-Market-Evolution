@@ -8,7 +8,7 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 📁 **Filename:** `Average_Brand_Price_Package_Price_per_Ounce.png`
 
-![Brand Price per Ounce](../Images/Average_Brand_Price_Package_Price_per_Ounce.png)
+![Brand Price per Ounce](../../Images/Average_Brand_Price_Package_Price_per_Ounce.png)
 
 ### 🔍 Key Insights:
 - Shelf price alone misleads. Store brands with low sticker prices (e.g., $2.97) often have **higher unit costs** than national brands.
@@ -22,7 +22,7 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 📁 **Filename:** `Average_Price_per_Ounce_Retailer.png`
 
-![Retailer Price per Ounce](../Images/Average_Price_per_Ounce_Retailer.png)
+![Retailer Price per Ounce](../../Images/Average_Price_per_Ounce_Retailer.png)
 
 ### 🔍 Key Insights:
 - **Club stores (Costco, Sam’s)** remain the lowest in $/oz due to bulk pricing.
@@ -36,34 +36,9 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 📁 **Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`
 
-![Froot Loops Kroger](../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
+![Froot Loops Kroger](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
 ### 📍 Insight: Froot Loops Pricing Surges at Kroger (2021–2025)
 
-Froot Loops (Kellogg’s) sold through Kroger revealed one of the **most aggressive price-per-ounce escalations** across the entire dataset. A **+31.9% increase over four years** signals a collaborative brand-retailer strategy to raise margins on a familiar, high-trust product. 
-
-Power BI flagged Froot Loops as the strongest driver of price distribution, validating its outsized impact on average $/oz across Kroger’s cereal category.  
-**Froot Loops reached its highest average price per ounce in Q1 2025 at $0.62/oz.**
-
-🧠 **Strategic Implication:**  
-Consumers remain loyal to nostalgic staples, even as per-unit pricing climbs quietly in the background — a playbook worth analyzing across other legacy SKUs.
-
----
-
-### 🧠 Behavioral Insight Summary
-
-This analysis reveals how **anchoring bias**, **shrinkflation**, and **retailer segmentation** create a pricing illusion. What feels affordable upfront may cost more per ounce over time — quietly inflating repeat spending without obvious shelf signals.
-
----
-
-### ✅ Files Referenced:
-- `/Images/Average_Brand_Price_Package_Price_per_Ounce.png`
-- `/Images/Average_Price_per_Ounce_Retailer.png`
-- `/Images/Average_Price_per_Ounce_FrootLoops_Kroger.png`
-
----
-
-### ✅ Files Referenced:
-- `/Images/Average_Brand_Price__Package_Price_per__Ounce.png`
-- `/Images/Average_Price_per_Ounce__Retailer.png`
-- `/Images/Average_Price_per_Ounce FrootLoops_Kroger.png`
+Froot Loops (Kellogg’s) sold through Kroger revealed one of the **most aggressive price-per-ounce escalations** across the entire dataset.  
+A **+31.9% increase over four**
