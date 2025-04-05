@@ -32,7 +32,7 @@ Club stores (Costco, Sam’s) maintain their value moat with **$0.12/oz average 
 
 ## Visual 3: Kroger Froot Loops ($/oz | 2021–2025)  
 **Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`  
-![Froot Loops](../../Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png)
+![Froot Loops Price](../../Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
 🔹 **Strategic Insight:**  
 Kellogg’s Froot Loops at Kroger saw a **+31.9% increase in price per ounce**, peaking at **$0.62/oz in Q1 2025**. Despite this, **Power BI flagged it as a top loyalty driver**, showing consumers **tolerate price creep** for nostalgic products. This suggests Kroger leverages **emotional loyalty** to maximize margins on trusted SKUs.
