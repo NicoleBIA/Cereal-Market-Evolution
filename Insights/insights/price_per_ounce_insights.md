@@ -6,9 +6,9 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ## 📌 Visual 1: Average Brand Price & Price per Ounce by Brand
 
-📁 **Filename:** `Average_Brand_Price__Package_Price_per__Ounce.png`
+📁 **Filename:** `Average_Brand_Price_Package_Price_per_Ounce.png`
 
-![Brand Price per Ounce](../Images/Images/Average_Brand_Price_Package_Price_per_Ounce.png) 
+![Brand Price per Ounce](../Images/Average_Brand_Price_Package_Price_per_Ounce.png)
 
 ### 🔍 Key Insights:
 - Shelf price alone misleads. Store brands with low sticker prices (e.g., $2.97) often have **higher unit costs** than national brands.
@@ -20,9 +20,9 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ## 📌 Visual 2: Average Price per Ounce by Retailer
 
-📁 **Filename:** `Average_Price_per_Ounce__Retailer.png`
+📁 **Filename:** `Average_Price_per_Ounce_Retailer.png`
 
-![Retailer Price per Ounce](../Images/Average_Price_per_Ounce__Retailer.png)
+![Retailer Price per Ounce](../Images/Average_Price_per_Ounce_Retailer.png)
 
 ### 🔍 Key Insights:
 - **Club stores (Costco, Sam’s)** remain the lowest in $/oz due to bulk pricing.
@@ -34,9 +34,9 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ## 📌 Visual 3: Price per Ounce – Kroger Froot Loops (2021–2025)
 
-📁 **Filename:** `Average_Price_per_Ounce FrootLoops_Kroger.png`
+📁 **Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`
 
-![Froot Loops Kroger](../Images/Average_Price_per_Ounce%20FrootLoops_Kroger.png)
+![Froot Loops Kroger](../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
 ### 📍 Insight: Froot Loops Pricing Surges at Kroger (2021–2025)
 
@@ -53,6 +53,13 @@ Consumers remain loyal to nostalgic staples, even as per-unit pricing climbs qui
 ### 🧠 Behavioral Insight Summary
 
 This analysis reveals how **anchoring bias**, **shrinkflation**, and **retailer segmentation** create a pricing illusion. What feels affordable upfront may cost more per ounce over time — quietly inflating repeat spending without obvious shelf signals.
+
+---
+
+### ✅ Files Referenced:
+- `/Images/Average_Brand_Price_Package_Price_per_Ounce.png`
+- `/Images/Average_Price_per_Ounce_Retailer.png`
+- `/Images/Average_Price_per_Ounce_FrootLoops_Kroger.png`
 
 ---
 
