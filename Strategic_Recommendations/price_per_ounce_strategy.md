@@ -19,7 +19,7 @@ This recommendation highlights how **price perception ≠ price reality** — an
 
 📁 **Filename:** `Average_Brand_Price_Package_Price_per_Ounce.png`
 
-![Brand Price](../../Images/strategic/Average_Brand_Price_Package_Price_per_Ounce.png)
+![Brand Price](../Images/strategic/Average_Brand_Price_Package_Price_per_Ounce.png)
 
 ### 🧠 Strategic Insight:
 Private label brands often disguise **higher unit prices** behind low total shelf costs.
@@ -34,7 +34,7 @@ Private label brands often disguise **higher unit prices** behind low total shel
 
 📁 **Filename:** `Average_Price_per_Ounce_Retailer.png`
 
-![Retailer Price](../../Images/strategic/Average_Price_per_Ounce_Retailer.png)
+![Retailer Price](../Images/strategic/Average_Price_per_Ounce_Retailer.png)
 
 ### 🧠 Strategic Insight:
 - **Warehouse clubs (Costco, Sam’s Club)** lead on price protection with **$0.12/oz** unit costs.
@@ -49,7 +49,7 @@ This suggests **price perception ≠ actual value** — shoppers may overpay whi
 
 📁 **Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`
 
-![Froot Loops Price](../../Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png)
+![Froot Loops Price](../Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
 ### 🧠 Strategic Insight:
 **Kellogg’s Froot Loops at Kroger** saw a **+31.9% increase in price per ounce**, peaking at **$0.62/oz in Q1 2025**.  
