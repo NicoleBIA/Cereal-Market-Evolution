@@ -12,7 +12,7 @@ Analysis of average price per ounce ($/oz) data across brands and retailers reve
 
 Further, Power BI flagged **Kellogg’s Froot Loops at Kroger** as the most influential SKU affecting price distribution — driven by a **+31.9% $/oz increase** between 2021 and 2025. These findings suggest that **retailers and CPGs are strategically leveraging familiarity and brand trust** to raise unit margins without triggering price sensitivity.
 
-- [Average Brand Price and Package Price per Ounce.png](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
+- ![Average Brand Price and Package Price per Ounce](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
 
 ---
 
