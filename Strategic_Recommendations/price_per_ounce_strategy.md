@@ -1,61 +1,70 @@
-# Strategic Recommendation: Unit Pricing, Value Perception & Froot Loops Loyalty
+# 📊 Strategic Recommendation: Price per Ounce, Value Perception & Shrinkflation
 
 ---
 
-### Business Question:
-How do average price per ounce trends influence consumer value perception, and what pricing signals are retailers and brands sending — intentionally or not?
+## 📌 Executive Summary  
+This strategy brief uncovers the **psychological pricing dynamics** that impact how consumers perceive value. While many shoppers focus on shelf price, real cost is revealed through **price per ounce**, where hidden inflation and retailer margin tactics quietly emerge.
+
+By analyzing unit cost trends across **brands, retailers, and nostalgic products like Froot Loops**, this strategy reveals how **brand trust, shrinkflation, and price illusions** shape consumer behavior.
 
 ---
 
-# Executive Summary:
-Across brands and retailers, pricing strategies often exploit cognitive shortcuts like **anchoring bias**, where shelf price creates the illusion of affordability — while **unit price quietly escalates**. This is especially evident with nostalgic products like Froot Loops, where price hikes are tolerated due to brand trust. Retailers like Kroger use private labels and legacy SKUs to **quietly raise margins without disrupting buyer behavior**.
+## ❓ Business Question  
+**How are pricing strategies and unit cost manipulation (price per ounce) influencing consumer perception, brand trust, and inflation resistance across cereal brands and retailers?**
 
 ---
 
-## Visual 1: Average Brand Price & Price per Ounce by Brand  
-**Filename:** `Average_Brand_Price_Package_Price_per_Ounce.png`  
+## 📊 Visual 1: Average Brand Price & Price per Ounce by Brand
+
+📁 **Filename:** [`Average_Brand_Price_Package_Price_per_Ounce.png`](../../Images/strategic/Average_Brand_Price_Package_Price_per_Ounce.png)  
 ![Brand Price](../../Images/strategic/Average_Brand_Price_Package_Price_per_Ounce.png)
 
-🔹 **Strategic Insight:**  
-Private label brands often disguise higher unit prices behind low total shelf costs. Quaker Oats’ $0.29/oz (despite shelf price of ~$2.79) may signal **shrinkflation**, while store brands like **Kroger** lead at **$0.42/oz**. Club brands (e.g., Member's Mark, Kirkland) drive **maximum value perception**, some as low as **$0.17/oz**.
+### 🧠 Strategic Insight:  
+Private label brands often disguise **higher unit prices** behind low total shelf costs.  
+- **Quaker Oats’ $0.29/oz** (vs. shelf price ~$2.79) may signal **shrinkflation**.  
+- **Kroger’s store brand** leads at **$0.42/oz**, the highest among major brands.  
+- Club brands like **Kirkland and Member’s Mark** drive **maximum value**, with some unit costs as low as **$0.17/oz**.
 
 ---
 
-## Visual 2: Average Price per Ounce by Retailer  
-**Filename:** `Average_Price_per_Ounce_Retailer.png`  
+## 📊 Visual 2: Average Price per Ounce by Retailer
+
+📁 **Filename:** [`Average_Price_per_Ounce_Retailer.png`](../../Images/strategic/Average_Price_per_Ounce_Retailer.png)  
 ![Retailer Price](../../Images/strategic/Average_Price_per_Ounce_Retailer.png)
 
-🔹 **Strategic Insight:**  
-Club stores (Costco, Sam’s) maintain their value moat with **$0.12/oz average pricing** — ideal for inflation-conscious consumers. Standard grocers like **Kroger** reached **$0.32/oz average** despite perception as “budget-friendly,” proving that **house brands quietly lift retailer margins** while shoppers chase low sticker prices.
+### 🧠 Strategic Insight:  
+- **Warehouse clubs (Costco, Sam’s Club)** lead on price protection with **$0.12/oz** unit costs.  
+- **Walmart and Target** average **$0.32–$0.34/oz**, while **Kroger hits $0.34/oz**.  
+- Despite offering private labels, **traditional grocers still see higher $/oz** due to legacy pricing strategies.  
+This suggests **price perception ≠ actual value** — shoppers may overpay while believing they’re saving.
 
 ---
 
-## Visual 3: Kroger Froot Loops ($/oz | 2021–2025)  
-**Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`  
+## 📊 Visual 3: Kroger Froot Loops ($/oz | 2021–2025)
+
+📁 **Filename:** [`Average_Price_per_Ounce_FrootLoops_Kroger.png`](../../Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png)  
 ![Froot Loops Price](../../Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
-🔹 **Strategic Insight:**  
-Kellogg’s Froot Loops at Kroger saw a **+31.9% increase in price per ounce**, peaking at **$0.62/oz in Q1 2025**. Despite this, **Power BI flagged it as a top loyalty driver**, showing consumers **tolerate price creep** for nostalgic products. This suggests Kroger leverages **emotional loyalty** to maximize margins on trusted SKUs.
+### 🧠 Strategic Insight:  
+- **Froot Loops (Kellogg’s)** at **Kroger surged +31.9%** in price per ounce over four years.  
+- Peaked at **$0.62/oz in Q1 2025** — the highest unit price in the dataset for this SKU.  
+- Power BI flagged Froot Loops as a key outlier, revealing how **legacy brands quietly lift prices** due to brand trust.  
+
+📌 This is a **playbook for raising margins** without disrupting consumer loyalty — particularly in nostalgic categories.
 
 ---
 
-### Strategic Recommendations:
+## 🧠 Strategic Takeaway  
 
-1. **Monitor Unit Price Thresholds**  
-   Regular shelf price isn’t enough — track and optimize $/oz across all SKUs, especially store brands.
+Across brands and retailers, **pricing strategies often exploit cognitive shortcuts** like **anchoring bias**, where shelf price creates the illusion of affordability — while **unit price quietly escalates**.  
 
-2. **Use Club Pricing Models for Value Marketing**  
-   Emphasize value per ounce in marketing messaging to challenge legacy brands.
-
-3. **Leverage Legacy SKUs Like Froot Loops**  
-   Anchor pricing increases to products with high emotional loyalty — but **don’t overdo it**, or you risk backlash.
-
-4. **Audit for Shrinkflation Signals**  
-   Track brands like Quaker and Kellogg’s where low shelf prices hide higher $/oz creep, and design mitigation strategies.
+This is especially evident with nostalgic products like Froot Loops, where price hikes are tolerated due to brand trust.  
+Retailers like Kroger use private labels and legacy SKUs to **quietly raise margins** without disrupting buyer behavior.
 
 ---
 
-### 🔗 Files Referenced:
-- `/Images/strategic/Average_Brand_Price_Package_Price_per_Ounce.png`
-- `/Images/strategic/Average_Price_per_Ounce_Retailer.png`
-- `/Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png`
+### 📁 Files Referenced:
+- `Images/strategic/Average_Brand_Price_Package_Price_per_Ounce.png`  
+- `Images/strategic/Average_Price_per_Ounce_Retailer.png`  
+- `Images/strategic/Average_Price_per_Ounce_FrootLoops_Kroger.png`
+
