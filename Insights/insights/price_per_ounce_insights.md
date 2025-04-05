@@ -4,9 +4,9 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ---
 
-## 📌 Visual 1: Average Brand Price & Price per Ounce by Brand
+## Visual 1: Average Brand Price & Price per Ounce by Brand
 
-📁 **Filename:** `Average Brand Price and Package Price per Ounce.png`
+**Filename:** `Average Brand Price and Package Price per Ounce.png`
 
 ![Brand Price per Ounce](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
 
@@ -18,9 +18,9 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ---
 
-## 📌 Visual 2: Average Price per Ounce by Retailer
+## Visual 2: Average Price per Ounce by Retailer
 
-📁 **Filename:** `Average Price per Ounce by Retailer.png`
+ **Filename:** `Average Price per Ounce by Retailer.png`
 
 ![Retailer Price per Ounce](../../Images/Average%20Price%20per%20Ounce%20by%20Retailer.png)
 
@@ -32,13 +32,13 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
 ---
 
-## 📌 Visual 3: Price per Ounce – Kroger Froot Loops (2021–2025)
+## Visual 3: Price per Ounce – Kroger Froot Loops (2021–2025)
 
-📁 **Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`
+ **Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`
 
 ![Froot Loops Kroger](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
-### 📍 Insight: Froot Loops Pricing Surges at Kroger (2021–2025)
+### Insight: Froot Loops Pricing Surges at Kroger (2021–2025)
 
 Froot Loops (Kellogg’s) sold through Kroger revealed one of the **most aggressive price-per-ounce escalations** across the entire dataset.  
 A **+31.9% increase over four years** signals a collaborative brand-retailer strategy to raise margins on a familiar, high-trust product.
@@ -46,12 +46,12 @@ A **+31.9% increase over four years** signals a collaborative brand-retailer str
 Power BI flagged Froot Loops as the strongest driver of price distribution, validating its outsized impact on average $/oz across Kroger’s cereal category.  
 **Froot Loops reached its highest average price per ounce in Q1 2025 at $0.62/oz.**
 
-🧠 **Strategic Implication:**  
+**Strategic Implication:**  
 Consumers remain loyal to nostalgic staples, even as per-unit pricing climbs quietly in the background — a playbook worth analyzing across other legacy SKUs.
 
 ---
 
-### 🧠 Behavioral Insight Summary
+### Behavioral Insight Summary
 
 This analysis reveals how **anchoring bias**, **shrinkflation**, and **retailer segmentation** create a pricing illusion.  
 What feels affordable upfront may cost more per ounce over time — quietly inflating repeat spending without obvious shelf signals.
