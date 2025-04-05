@@ -7,10 +7,12 @@ How do shelf prices, unit prices, and behavioral pricing biases impact consumer 
 
 ---
 
-## 🧾 Executive Summary
+# Executive Summary
 Analysis of average price per ounce ($/oz) data across brands and retailers revealed key disconnects between **perceived affordability** and **true consumer cost**. Store brands like Kroger, Great Value, and Good & Gather outpriced national brands on a per-ounce basis by 2024–2025, despite appearing cheaper on the shelf. 
 
 Further, Power BI flagged **Kellogg’s Froot Loops at Kroger** as the most influential SKU affecting price distribution — driven by a **+31.9% $/oz increase** between 2021 and 2025. These findings suggest that **retailers and CPGs are strategically leveraging familiarity and brand trust** to raise unit margins without triggering price sensitivity.
+
+![Brand Price per Ounce](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
 
 ---
 
@@ -23,6 +25,8 @@ While consumers anchor decisions on visible shelf prices, the **true cost per ou
 - Introduce transparent unit pricing tags or mobile scanning tools.
 - Use $/oz benchmarks when setting new pack sizes or price tiers.
 
+- ![Retailer Price per Ounce](../../Images/Average%20Price%20per%20Ounce%20by%20Retailer.png)
+
 ---
 
 ## Strategic Insight 2: Psychology Drives Overpayment
@@ -33,6 +37,8 @@ Anchoring bias drives trust in store brands — creating a **perception of affor
 ✅ **Action**:
 - Perform behavioral audits on pricing strategies across retailers.
 - Reframe promotions to highlight real per-ounce savings (e.g., bulk SKUs).
+
+- ![Froot Loops Kroger](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png) 
 
 ---
 
@@ -53,7 +59,7 @@ Consumers make fast decisions based on what they *see* — not what they *pay*. 
 
 ---
 
-## 📁 Files Referenced
-- [Average_Brand_Price_Package_Price_per_Ounce.png](../../Images/Average_Brand_Price_Package_Price_per_Ounce.png)
-- [Average_Price_per_Ounce_Retailer.png](../../Images/Average_Price_per_Ounce_Retailer.png)
-- [Average_Price_per_Ounce_FrootLoops_Kroger.png](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
+## Files Referenced
+- ![Retailer Price per Ounce](../../Images/Average%20Price%20per%20Ounce%20by%20Retailer.png)
+- ![Brand Price per Ounce](../../Images/Average%20Brand%20Price%20and%20Package%20Price%20per%20Ounce.png)
+- ![Froot Loops Kroger](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png) 
