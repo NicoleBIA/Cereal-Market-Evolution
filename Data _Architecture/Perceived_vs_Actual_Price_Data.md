@@ -29,7 +29,7 @@ To simulate the psychological dynamics of price perception by comparing what con
 
 ## 🔹 Row Count Logic
 
-- Contains **24,000 rows**
+- Contains **45,000 rows**
 - Structured by `Retailer + Brand + Product_Name + Batch_ID`
 - Perceived price generated using **anchoring bias models** based on historical pricing, package size, and promotion history
 - Allows for regional variance in price sensitivity and perception
