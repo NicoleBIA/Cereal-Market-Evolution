@@ -1,6 +1,6 @@
 # 🥣 Cereal_Sales_Pricing_Dataset_Corrected
 
-This is the **core dataset** in the Cereal Market Evolution project. It simulates realistic cereal sales data across major U.S. retailers, accounting for inflation, shrinkflation, pricing behavior, and promotional patterns.
+This is the **core dataset** in the Cereal Market Evolution project. It simulates realistic cereal sales data across major U.S. retailers, accounting for inflation, shrinkflation, pricing behavior, and promotional patterns. 
 
 ---
 
