@@ -36,7 +36,7 @@ This insight set reveals the hidden cost dynamics behind shelf pricing, unit pri
 
  **Filename:** `Average_Price_per_Ounce_FrootLoops_Kroger.png`
 
-![Froot Loops Kroger](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
+![Froot Loops Kroger](../../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png) 
 
 ### Insight: Froot Loops Pricing Surges at Kroger (2021–2025)
 
