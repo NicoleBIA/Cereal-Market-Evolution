@@ -1,4 +1,4 @@
-# 🤖 AI_Driven_Price_Projection_Data
+# AI_Driven_Price_Projection_Data
 
 This dataset uses AI-driven logic to simulate **future pricing scenarios** by retailer, brand, and product — based on historical sales trends, CPI data, and promotional behavior.
 
