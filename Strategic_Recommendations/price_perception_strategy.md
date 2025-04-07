@@ -66,21 +66,26 @@ Rather than damaging sales, this perception gap **protects the brand**, reinforc
 
 ---
 
-### 🧠 Closing Thought  
-This insight reinforces a core pricing truth:
+---
 
-> “A product's price is not just what it costs — it's what it *means.*”
+### 🧠 Closing Thought
+
+This insight reinforces a core pricing truth:  
+
+> “A product's price is not just what it costs — it's what it *means*.”
 
 When perception diverges from reality, there’s opportunity to reinforce value, enhance loyalty, and subtly shape buying behavior — without discounting.
 
 ---
 
-### 📎 Related Visual  
-[📊 Price Expectation vs. Reality Scatter Plot](../Images/price_expectation_vs_reality_scatter_plot.png)
+### 📎 Embedded Visual
 
-> (Make sure this filename matches your actual image path!)
+![Price Perception vs. Reality Scatter Plot](../Images/price_perception_identity_brand_trust.png)
+
+_Above: Walmart's Froot Loops (Kellogg's) shows the widest perception gap — consumers believe it costs $1.12/oz, but it’s actually just $0.44/oz. This insight reinforces the powerful role of brand identity in pricing psychology._
 
 ---
 
-### 🔗 Related Insight  
-📖 [Behavioral Spotlight: Price Perception, Identity & Brand Trust](../Behavioral_Spotlights/behavioral_spotlight_price_perception_identity_trust.md)
+### 🔗 Related Insight
+
+[**Behavioral Spotlight: Price Perception, Identity & Brand Trust**](../Insights/price_perception_identity_brand_trust.md)
