@@ -68,15 +68,16 @@ Nicole led the end-to-end creation of a synthetic but business-aligned dataset, 
 
   ---
 
-  #### 🔹 Outlier Treatment & Data Integrity Notes
+#### 🔹 Outlier Treatment & Data Integrity Notes
 
 While the dataset maintains realistic variability to reflect real-world price behavior, select outlier points—especially in price perception—were intentionally preserved to support behavioral edge case analysis.
 
-Key examples include:
+**Key examples include:**
+
 - **General Mills Cinnamon Toast Crunch** at Costco (BOGO promotion): Aggregate size of 99oz priced at $2.53, later confirmed to be part of a dual-pack promo (49.5oz x 2), skewing unit perception.
-- **Kellogg's Frosted Flakes** at Costco: Outlier BOGO point at $9.76 for 61.9oz, sharply deviating from surrounding trend.
+- **Kellogg’s Frosted Flakes** at Costco: Outlier BOGO point at $9.76 for 61.9oz, sharply deviating from surrounding trend.
 
 These entries were retained for visual and regression contrast analysis, but users are encouraged to apply context-aware filters when running sensitivity models or exploring perception gaps.
 
-This decision was guided by the project's emphasis on behavioral pricing analytics and scenario realism.
+This decision was guided by the project’s emphasis on behavioral pricing analytics and scenario realism.
 
