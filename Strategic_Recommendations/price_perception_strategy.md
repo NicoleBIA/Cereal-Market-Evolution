@@ -85,7 +85,3 @@ When perception diverges from reality, there’s opportunity to reinforce value,
 _Above: Walmart's Froot Loops (Kellogg's) shows the widest perception gap — consumers believe it costs $1.12/oz, but it’s actually just $0.44/oz. This insight reinforces the powerful role of brand identity in pricing psychology._
 
 ---
-
-### 🔗 Related Insight
-
-[**Behavioral Spotlight: Price Perception, Identity & Brand Trust**](../Insights/price_perception_identity_brand_trust.md)
