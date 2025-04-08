@@ -67,8 +67,7 @@ Nicole led the end-to-end creation of a synthetic but business-aligned dataset, 
 - Ensured the dataset allowed for scenario testing, key influencer analysis, and behavioral response modeling to support strategic forecasting in Power BI
 
   ---
-
-#### 🔹 Outlier Treatment & Data Integrity Notes
+### 🔹 Outlier Treatment & Data Integrity Notes
 
 While the dataset maintains realistic variability to reflect real-world price behavior, select outlier points—especially in price perception—were intentionally preserved to support behavioral edge case analysis.
 
