@@ -64,5 +64,12 @@ This distinction illustrates a broader theme in behavioral economics:
 
 ---
 
+> **Strategic Note:**  
+> The clearance pricing behavior observed at Sam’s Club in 2020 for Cinnamon Toast Crunch appears to be an isolated, low-volume event — with only two identical entries recorded on the same date. Notably, this occurred during the early pandemic period when supply chain uncertainty and reduced foot traffic may have driven temporary liquidation efforts.  
+> 
+> While it may not reflect a deliberate pricing strategy, it underscores the importance of monitoring historical anomalies. Even unintentional discounting patterns can contribute to long-term price perception shifts, particularly for high-equity products like CTC. CPGs should consider including this level of transactional context when evaluating promotional impact on consumer trust.
+
+---
+
 🔍 **Visual Source**: Power BI scatterplot — *Perceived Price per Ounce vs. Actual Price per Ounce*  
 🧠 **Project Context**: Cereal Market Evolution (2020–2025), Strategic Pricing & Behavioral Analysis  
