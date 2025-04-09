@@ -11,10 +11,10 @@ This comparison draws on a broader behavioral pricing investigation from the **C
 
 ---
 
-### Case 1: Costco — Perception Alignment with Transparent BOGO
+### Case 1: Costco — General Mill's Cinnamon Toast Crunch Perception Alignment with Transparent BOGO
 
-![Costco Price Perception – Cinnamon Toast Crunch](../Images/Costco_CTC_Price_Perception.png)
-![Costco Tooltip – Cinnamon Toast Crunch](../Images/Costco_CTC_Price_PerceptionTT.png)
+![Costco BOGO Price Perception](../Images/Costco_CinnamonToastCrunch_BOGO_Price_Perception.png)
+![Tooltip – Costco BOGO](../Images/Costco_CinnamonToastCrunch_BOGO_Price_PerceptionTT.png)
 
 - **Promotion Type:** BOGO  
 - **Actual Price per Pack:** $2.53 × 2  
@@ -28,7 +28,7 @@ Despite the promotional framing (BOGO), Costco’s pricing maintains transparenc
 
 ---
 
-### Case 2: Sam’s Club — Clearance Deal Distorts Price Perception
+### Case 2: Sam’s Club — General Mill's Cinnamon Toast Crunch Clearance Deal Distorts Price Perception
 
 ![Sam’s Club Price Perception – Cinnamon Toast Crunch](../Images/Sams_CTC_Perception_Clearance.png)
 ![Sam’s Club Tooltip – Cinnamon Toast Crunch](../Images/Sams_CTC_Perception_ClearanceTT.png)
