@@ -9,7 +9,7 @@ This narrative highlights how **inflation anchoring** has altered consumer price
 ---
 
 ### Insight Summary  
-As we analyzed pricing across multiple visuals — including regression-based perception analysis (Costco & Sam’s Club) and promotional timeline views (Amazon Fresh) — one theme emerged:
+As I analyzed pricing across multiple visuals — including regression-based perception analysis (Costco & Sam’s Club) and promotional timeline views (Amazon Fresh) — one theme emerged:
 
 > **Consumers are not just reacting to inflation. They're *anchoring* it.**  
 
