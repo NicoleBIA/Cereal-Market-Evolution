@@ -38,18 +38,23 @@ Dashboards shouldn’t just show the *what*. They must uncover the *why*, illumi
 
 ---
 
-## My Design Values
+### My Design Values
 
 I don’t create displays. I create stories with strategic clarity. My design choices are deliberate and layered:
 
 - **Visualization selection that fits the story** — choosing the *right* chart type (bar, line, area, pie, scatter, etc.) based on what the data needs to communicate, not just what looks interesting  
+- **Dynamic segmentation and purposeful filtering** — slicing the data to surface meaningful contrasts and reduce cognitive overload, ensuring the right insight emerges at the right moment  
 - **Insight boxes** to synthesize meaning  
 - **Strategic recommendations** to guide action  
 - **Narrative captions** to direct the user’s eye  
 - **Clean layouts** that focus attention—not distract from it  
 - **Contextual framing** that aligns with real-world decision-making
 
-I use Power BI not just for visual creation—but for **business translation.**
+## Power BI
+I use **Power BI** not just for visual creation—but for **business translation.** Its flexible canvas layout allows for layered storytelling, interactive insight boxes, and narrative-rich dashboards that speak directly to decision-makers.
+
+## Tableau
+While **Tableau** offers a different UX/UI experience, I apply the same core design principles. Tableau’s strength lies in visual fluidity and fast exploration. I enhance this by incorporating **annotations for key moments** and using **storyboarding** to guide users through structured, high-level narratives. Whether I’m working in Power BI or Tableau, my focus remains the same: insight-first, action-ready storytelling.
 
 ---
 
