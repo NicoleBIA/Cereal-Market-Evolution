@@ -85,14 +85,14 @@ Nicole led the end-to-end creation of a synthetic but business-aligned dataset, 
 
 ---
 
-## Understanding Price Perception Difference (PPD) in Visuals Using Perceived vs Actual Price
+### Understanding Price Perception Difference (PPD) in Visuals Using Perceived vs Actual Price
 
 **Definition:**  
 Price Perception Difference (PPD) measures the average difference between what consumers believe a product *should* cost per ounce (Perceived $/oz) versus what it *actually* costs (Actual $/oz).
 
 ---
 
-### 💡 Why It Matters
+### Why It Matters
 
 This is not just a simple numerical delta — it’s a **behavioral insight metric**. PPD reflects how aligned or misaligned consumers are in their value interpretation of a product’s price at the unit level.
 
@@ -120,7 +120,7 @@ Final **PPD for Group**:
 
 ---
 
-### 🔍 Why Analysts Use It
+### Why Analysts Use It
 
 PPD is especially useful when comparing **brand-level** or **promotion-level** pricing trends because it:
 
