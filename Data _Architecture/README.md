@@ -83,6 +83,8 @@ Nicole led the end-to-end creation of a synthetic but business-aligned dataset, 
 
 - This decision was guided by the project’s emphasis on behavioral pricing analytics and scenario realism.
 
+---
+
 ## Understanding Price Perception Difference (PPD) in Visuals Using Perceived vs Actual Price
 
 **Definition:**  
