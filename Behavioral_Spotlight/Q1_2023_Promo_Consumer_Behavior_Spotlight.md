@@ -13,9 +13,6 @@ This spotlight analyzes **Q1 2023 promotional behavior** to reveal how brands an
 
 ---
 
-### 📊 Visual 1: Brand vs. Retailer Dynamics
-
-
 ### 📊 Visual 1: Brand vs. Retailer Dynamics  
 ![Q1 Brand and Retailer Total Sales Volume](../Images/Q1_2023_Total_Sales_Vol_Brand_Retailer_Promo.png)
 
