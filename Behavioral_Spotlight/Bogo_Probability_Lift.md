@@ -62,12 +62,6 @@ These visuals help us interpret **not just when promotions occur**, but **why**�
 
 ---
 
-## 🗂 Suggested GitHub Placement
-📁 `/Behavioral_Insights_Spotlights/`  
-📄 `bogo_probability_lift.md`
-
----
-
 ## ✅ Summary
 
 | Concept | Value |
@@ -80,3 +74,8 @@ These visuals help us interpret **not just when promotions occur**, but **why**�
 
 ---
 ```Strategically timed promotions aren’t accidents—they’re signals of underlying performance behavior. Learn how to read them.```
+
+## 🗂 Suggested GitHub Placement
+📁 `/Behavioral_Insights_Spotlights/`  
+📄 `bogo_probability_lift.md`
+---
