@@ -17,7 +17,7 @@ BOGO deals have different cost and margin trade-offs than other promotions like 
 
 ## 📊 Visual Reference 1: BOGO Probability Lift
 
-![Key Influencers – BOGO Probability](Key_Influencers_BOGO.png)
+![BOGO Lift](../Images/Key_Influencers_BOGO.png)
 
 ### Annotated Insight (Included in Visual):
 > **When retailer sales exceed $953.13**,  
@@ -29,7 +29,7 @@ BOGO deals have different cost and margin trade-offs than other promotions like 
 
 ## 📊 Visual Reference 2: BOGO Segmentation by Sales Bands
 
-![Key Influencers – BOGO Segments](Key_Influencers_BOGO_Top_Segments.png)
+![Top Segments](../Images/Key_Influencers_BOGO_Top_Segments.png)
 
 This view segments the data into percentile bands based on **Total Sales by Retailer** and ranks the segments by how often BOGO is triggered.
 
