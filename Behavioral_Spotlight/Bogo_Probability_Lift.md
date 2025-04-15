@@ -39,6 +39,18 @@ This view segments the data into percentile bands based on **Total Sales by Reta
 
 ---
 
+## 📈 Hypothetical Impact Example
+
+While a 1.02x lift may seem modest, in high-volume environments it can result in significant revenue gains. For example:
+
+- If a retailer generates **$15 million** annually in cereal sales across all stores...
+- And 20% of those sales are tied to **BOGO promotions** ($3 million),
+- Then a **2% lift in BOGO-triggering likelihood** could impact $60,000+ in sales behavior annually — not including potential **inventory efficiencies**, **repeat buyer retention**, or **margin optimization** from targeted promo timing.
+
+ Even small behavioral shifts can create **large financial ripple effects** when scaled across national operations.
+
+ ---
+
 ## Strategic Implications
 
 - A 1.02x lift may **seem small**, but over **millions in sales volume**, this 2% increase can **meaningfully shift promotion planning.**
