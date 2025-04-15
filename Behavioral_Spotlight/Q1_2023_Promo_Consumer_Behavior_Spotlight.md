@@ -5,6 +5,17 @@ This spotlight analyzes **Q1 2023 promotional behavior** to reveal how brands an
 
 ---
 
+## Q1 2023 Promotion Response: Brand & Retailer Dynamics
+
+> **Contextual Note:**  
+> While this visualization highlights aggregate trends filtered to **Q1 2023**, several of the deeper insights (e.g., Kellogg’s outperforming across both BOGO and No Promotion at specific retailers) were derived through additional slicer-based exploration within the Power BI report.  
+> Brand-level filtering (not shown here for space efficiency) confirmed these strategic behaviors. The insights presented are based on validated breakdowns across the full dataset and not speculation from aggregated views.
+
+---
+
+### 📊 Visual 1: Brand vs. Retailer Dynamics
+
+
 ### 📊 Visual 1: Brand vs. Retailer Dynamics  
 ![Q1 Brand and Retailer Total Sales Volume](../Images/Q1_2023_Total_Sales_Vol_Brand_Retailer_Promo.png)
 
