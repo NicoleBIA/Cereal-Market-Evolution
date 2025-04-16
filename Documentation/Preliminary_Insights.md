@@ -1,10 +1,10 @@
 #  Preliminary Insights: Retailer Pricing & Shrinkflation
 
-## 🛒 CPG Retailer Product Placement & Package Size Discrepancies
+### 🛒 CPG Retailer Product Placement & Package Size Discrepancies
 **Key Finding:** Major CPG brands adjust **pricing, packaging, and product availability** differently across retailers, indicating **strategic SKU selection and competitive pricing agreements.**
 ---
 
-## Retailer-Specific Pricing & Product Availability – Cocoa Puffs
+### Retailer-Specific Pricing & Product Availability – Cocoa Puffs
 **Product:** *General Mills Cocoa Puffs*  
 **Key Finding:** Different retailers offer **different sizes and price points**, revealing **strategic pricing agreements and SKU optimization.**
 
