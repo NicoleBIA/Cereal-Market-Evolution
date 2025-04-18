@@ -66,6 +66,3 @@ For an explanation of how **Price Perception Difference (PPD)** is calculated an
 **BOGO** and **No Promotion** periods both generate strong perception effects — but for **different behavioral reasons**. This suggests that promotional strategy should be **behaviorally segmented** based on consumer trust levels, brand positioning, and retailer framing power.
 
 ---
-
-**✅ Commit Message:**  
-`Add Behavioral Spotlight for Price Perception vs Reality at Amazon Fresh with updated visual links and simplified tags`
