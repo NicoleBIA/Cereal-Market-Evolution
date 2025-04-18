@@ -1,74 +1,59 @@
-# 🧠 Behavioral Spotlight: Price Perception vs. Reality
+---
+title: 🧠 Price Perception vs. Reality – Behavioral Spotlight
+description: Behavioral Insight on Price Perception Differences (PPD) During BOGO Promotions for General Mills at Amazon Fresh
+tags: [Behavioral Spotlight, Price Perception, Consumer Psychology, Amazon Fresh, General Mills, CPG]
+---
 
-### Key Insight: Simulated Savings, Real Psychological Impact
+# 🧠 Behavioral Spotlight: Price Perception vs. Reality at Amazon Fresh  
+**Insight Theme:** *Simulated Savings, Real Impact*
 
-This insight explores **how consumer price perception diverges from actual pricing** during promotion periods—particularly **BOGO (Buy One, Get One)** events at **Amazon Fresh**.
-
-The analysis draws on quarterly time series data from the **Perceived vs. Actual Price dataset**, with a focused lens on **General Mills** cereal across multiple years. The goal: understand how **psychological pricing effects** unfold even when promotions aren't materially changing cost per unit.
+> This insight was developed as part of an independent strategic business intelligence engagement, structured as a consultancy-style strategic pricing intelligence portfolio project.  
+> The analysis leverages real-world data structures, CPG retail frameworks, and behavioral pricing principles to deliver actionable market intelligence for brands and retailers navigating today’s complex pricing environments.
 
 ---
 
-## 📊 Visual 1: Perceived Price Over Time – General Mills at Amazon Fresh
-
-![Perceived_Price_AmazonFresh_OverTime.png](../../Images/Perceived_Price_AmazonFresh_OverTime.png)
-
-**Insight:**
-The average **perceived price per ounce** rises even during periods without actual discounts—suggesting a **value illusion** rooted in brand trust, habitual purchase behavior, and BOGO framing.
-
-- Despite flat or rising actual prices, **perceived value remains high**.
-- This disconnect enables **margin preservation** while still activating promotional urgency.
+### Key Insight  
+Despite identical perceived and actual price per ounce values across three separate **BOGO** periods, price perception differences (PPDs) for **General Mills** at **Amazon Fresh** varied significantly — providing a window into how **consumer interpretation of discounts** shifts based on broader expectations and perceived necessity.
 
 ---
 
-## 📊 Visual 2: Brand-Level Price Perception Mix (Amazon Fresh)
+### 📊 Visual 1: Amazon Fresh | General Mills No Promotion – Price Perception Spike
 
-![Price_Perception_Brand_Stacked_AmazonFresh.png](../../Images/Price_Perception_Brand_Stacked_AmazonFresh.png)
-
-**Insight:**
-In the Amazon Fresh promotional environment, **General Mills dominated 100% of price perception** in key periods analyzed—indicating **strong brand anchoring** and low price elasticity for select products.
-
-This visualization provides critical support to the idea that **consumer memory and prior price exposures shape ongoing perception**, even in the presence of alternatives.
+![Amazon Fresh - General Mills - No Promotion](/Images/Behavioral_Spotlight/AmazonFresh_GeneralMills_NoPromotion.png)
 
 ---
 
-## 📊 Visual 3: Tooltip Evidence of Price Perception Difference (PPD)
+### 📊 Visual 2: Amazon Fresh | All Brands – No Promotion Price Perception Trends
 
-**Highlighted BOGO Quarters with Meaningful Price Perception Divergence:**
-| Quarter     | PPD Value | Implication                                                                 |
-|-------------|-----------|------------------------------------------------------------------------------|
-| **Q1 2025** | -0.12      | Suggests satisfaction and margin potential; perceived price was **lower** than actual. |
-| **Q2 2022** | -0.10      | Indicates elasticity in a mild inflation environment.                      |
-| **Q2 2023** | +0.26      | Reflects rising expectations or price sensitivity; perceived value **higher** than actual. |
-
-![Tooltip_Price_Perception_BOGO_Sequence.png](../../Images/Tooltip_Price_Perception_BOGO_Sequence.png)
+![Amazon Fresh - All Brands - No Promotion](/Images/Behavioral_Spotlight/AmazonFresh_AllBrands_NoPromotion.png)
 
 ---
 
-## Why This Matters:
+### 🧠 Behavioral Interpretation
 
-This is not just a visual or pricing delta—**Price Perception Difference (PPD)** is a behavioral insight metric.
-
-Understanding the cognitive gap between **what consumers expect to pay** and **what they actually pay** reveals elasticity, dissatisfaction risk, or perceived value alignment.
-
-🔗 [See full documentation: *Understanding PPD in Perceived vs. Actual Price Visuals*](../../Documentation/Price_Perception_Behavioral_Logic.md)
+- **In 2025 Q1**, the PPD of **–0.12** suggests strong consumer price satisfaction — **opening margin expansion potential**.
+- **In 2023 Q2**, a **positive PPD of +0.26** may reflect heightened deal sensitivity or **evolving expectations**.
+- **In 2022 Q2**, the **mild –0.10** gap indicates **moderate elasticity** within a lower expected price environment.
 
 ---
 
-##  Strategic Interpretation:
-
-> **Perceived value ≠ promotional dependency.**  
-> BOGO promotions can simulate value **without altering unit price**, leveraging time sensitivity and psychological framing.
-
-This behavioral response opens the door for **price framing strategies** that preserve margin while maintaining consumer engagement.
+### 💡 Strategic Implication  
+BOGO offers may **appear stable at the surface**, but **consumer interpretation is time-sensitive** and influenced by **broader price expectations**. Misalignment can signal either **opportunity for margin optimization** or **risk of value miscommunication**.
 
 ---
 
-## Actionable Takeaways:
+### ✅ Actionable Takeaway  
+Use this variation as a **strategic testbed** to:
 
-- Use **Price Perception Difference (PPD)** to test margin boundaries and brand strength.
-- Align **promotion messaging** with expected price anchors (not just shelf price).
-- Consider **BOGO and similar “simulated” discounts** as strategic tools—not just short-term volume drivers.
+- Fine-tune **promotional messaging**
+- Calibrate **expected price anchors**
+- Assess **margin protection thresholds** without altering face-value discounts
 
 ---
 
-🧠 This behavioral spotlight was developed as part of an independent **Strategic BI engagement** exploring consumer psychology and pricing dynamics across the cereal category.
+📘 **Related Documentation:**  
+[Understanding Price Perception Difference (PPD) – Behavioral Logic](../Documentation/Price_Perception_Behavioral_Logic.md)
+
+---
+🧠 *This insight is part of the Behavioral Spotlight Series — elevating analytics with consumer psychology, pricing perception, and strategic intelligence.*
+
