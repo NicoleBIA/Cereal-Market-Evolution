@@ -17,6 +17,30 @@ The analysis leverages real-world data structures, CPG retail frameworks, and be
 
 Despite identical perceived and actual price per ounce values across three separate **BOGO** periods, price perception differences (PPDs) for **General Mills at Amazon Fresh** varied significantly — providing a window into how **consumer interpretation of discounts** shifts based on broader expectations and perceived necessity.
 
+## 🧩 Supporting Data Reference
+
+The visuals and insights in this spotlight are grounded in structured data from the **Perceived vs. Actual Price dataset**, which tracks behavioral pricing dynamics across retailers, brands, and promotional types.
+
+📁 **View Source:** [`Perceived_vs_Actual_Price_Data.md`](../Data_Architecture/Perceived_vs_Actual_Price_Data.md)
+
+---
+This dataset contains fields for:
+- `Perceived_Price_per_Oz`
+- `Actual_Price_per_Oz`
+- `Expected_Price_per_Oz`
+- `Price_Perception_Difference (PPD)`
+
+The table below highlights four key observation points used in this analysis.
+
+| Quarter     | Avg Perceived $/oz | Avg Actual $/oz | Avg Expected Price $ | PPD    |
+|-------------|--------------------|------------------|-----------------------|--------|
+| Q1 2021     | $0.40              | $0.40            | $5.64                 | -0.10  |
+| Q2 2022     | $0.42              | $0.43            | $5.63                 | -0.10  |
+| Q2 2023     | $0.42              | $0.43            | $6.58                 | +0.26  |
+| Q1 2025     | $0.42              | $0.43            | $6.15                 | -0.12  |
+
+These data points show how **identical shelf prices** can result in **vastly different perception gaps**, depending on timing, consumer mindset, and promotional framing.
+
 ---
 
 ## 📊 Visual 1: General Mills – No Promotion Price Spike (Amazon Fresh)
