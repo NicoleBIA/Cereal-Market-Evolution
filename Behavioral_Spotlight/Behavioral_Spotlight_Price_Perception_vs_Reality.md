@@ -21,7 +21,7 @@ Despite identical perceived and actual price per ounce values across three separ
 
 The visuals and insights in this spotlight are grounded in structured data from the **Perceived vs. Actual Price dataset**, which tracks behavioral pricing dynamics across retailers, brands, and promotional types.
 
-📁 **View Source:** [`Perceived_vs_Actual_Price_Data.md`](../Data_Architecture/Perceived_vs_Actual_Price_Data.md)
+📁 **View Dataset Explanation:** [Perceived_vs_Actual_Price_Data.md](../Data_Architecture/Perceived_vs_Actual_Price_Data.md)
 
 ---
 This dataset contains fields for:
