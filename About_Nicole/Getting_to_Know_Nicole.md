@@ -1,7 +1,7 @@
 # Getting to Know Nicole
 
 **Nicole Reaves | Strategic Business Intelligence Studio**  
-*Designing insight systems that guide smarter business decisions and reveal unseen opportunity.*
+Designing insight systems that guide smarter business decisions and reveal unseen opportunity.
 
 Hi, I’m Nicole thank you for visiting my GitHub portfolio.
 
