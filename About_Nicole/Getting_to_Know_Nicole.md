@@ -32,3 +32,5 @@ I also have specialized skills training in:
 - Advanced Data Visualization
 - SQL SSMS
 - Strategic Project Management Fundamentals
+
+  
