@@ -77,7 +77,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ---
 
 ### 🔵 Pricing Perception & Margin Playbook  
-![Froot Loops at Kroger](../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
+![Froot Loops at Kroger](/Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
 - Froot Loops’ 31.9% price increase over 4 years shows how legacy products support quiet margin gain.  
 - [Read Spotlight →](../Behavioral_Spotlight/FrootLoops_Kroger_PriceSurge.md)
