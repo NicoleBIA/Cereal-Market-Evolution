@@ -80,6 +80,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 - Isolates Quaker Oats' portfolio performance for strategic loyalty deep dives.  
 - Featured in pie charts and loyalty-pressure visuals.  
 - Supports consumer behavior segmentation.
+  [Quaker Oats Total Sales Loyalty](/Images/Quaker_Oats_Performance_LoyaltySales.png).
 
 ---
 
