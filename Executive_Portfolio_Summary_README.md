@@ -85,7 +85,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ---
 
 ### 🟣 Volatility & Price Stability Tradeoff  
-![Volatility View](../Images/Price_Volatility_and_Key_Influencers.png)
+![Volatility View](/Images/Price_Volatility_and_Key_Influencers.png)
 
 - Retailers with “stable” prices like Costco actually carried the **highest** average unit costs.  
 - [Read Spotlight →](../Behavioral_Spotlight/Price_Volatility_ConsumerCost.md)
