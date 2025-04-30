@@ -64,7 +64,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ![MOM Intrabrand Rotation](/Images/MOM_Intrabrand_Rotation_Loyalty.png)
 
 - Strategic insight: Flexible product switching within Malt-O-Meal (MOM) drives value without losing loyalty.  
-- [Read Spotlight →](/Behavioral_Spotlight/MOM_Loyalty_StrategicInsight.md)
+- [Read Spotlight →](/Strategic_Recommendations_Spotlight/MOM_Loyalty_StrategicInsight.md)
 
 ---
 
