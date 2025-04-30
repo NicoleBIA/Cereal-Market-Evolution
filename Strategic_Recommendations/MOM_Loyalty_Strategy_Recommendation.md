@@ -1,6 +1,6 @@
 # Strategic Recommendation: Malt-O-Meal Loyalty Strategy – Flexible Loyalty, Firm Retention
 
-🟢 Based on Insight: [Malt-O-Meal's Intra-Brand Switching & Loyalty Strength (2024)](../Insights/MOM_Loyalty_Switching_Sales_2024.md)
+🟢 Based on Insight: [Malt-O-Meal's Intra-Brand Switching & Loyalty Strength (2024)](/Insights/insights/MOM_Loyalty_Switching_Sales_2024.md)
 
 ---
 
