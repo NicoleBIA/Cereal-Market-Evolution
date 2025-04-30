@@ -10,7 +10,7 @@ The model is anchored by **Retailer_Batch_Key**, a unique key that **connects al
 ## Power BI Data Model
 ![Cereal Sales Performance Data Model](/Images/Cereal_Market_Evolution_DataModel.png)
 
-## 🔑 Retailer_Batch_Key: The Core Relational Key  
+## Retailer_Batch_Key: The Core Relational Key  
 
 ### 🟢 Purpose of Retailer_Batch_Key  
 - Serves as the **primary key** across all datasets.  
@@ -31,15 +31,15 @@ These structured relationships enable **powerful insights into consumer behavior
 
 ## **DAX Queries Reference: Key Measures & Calculations**  
 
-# 📊 DAX Queries Reference: Key Measures & Calculations  
+# 🟪 DAX Queries Reference: Key Measures & Calculations  
 **Cereal Sales Performance: Inflation, Pricing, and Consumer Loyalty Insights (CSPIPCLI)**  
 This page outlines the DAX measures developed for this simulation and how each contributes to the broader strategy of market segmentation, pricing analysis, behavioral modeling, and inflation-adjusted forecasting.
 
 ---
 
-## 🔷 1. Total Sales Measures
+## 1. Total Sales Measures
 
-### ✅ `Total_Sales`  
+### 🟩 Total Sales  
 **Description:** Calculates total sales revenue based on unit price and quantity sold.  
 **DAX Code:**  
 ```dax
@@ -52,7 +52,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `Total_Sales_by_Brand`  
+### 🟩 Total Sales by Brand  
 **Use Case:**  
 - Evaluates brand market share and pricing performance.  
 - Used in stacked bar charts and brand-specific time series.  
@@ -60,14 +60,14 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `Total_Sales_by_Retailer`  
+### 🟩 Total Sales by Retailer  
 **Use Case:**  
 - Compares total retailer performance over time.  
 - Used in retailer ranking visuals, loyalty segmentation, and margin contribution comparisons.
 
 ---
 
-### ✅ `Total_Sales_by_Region_and_Brand`  
+### 🟩 Total Sales by Region and Brand  
 **Use Case:**  
 - Enables geographic segmentation modeling.  
 - Supports brand performance insights by distribution region.  
@@ -75,7 +75,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `Quaker_Oats_Total_Sales`  
+### 🟩 Quaker Oats Total Sales  
 **Use Case:**  
 - Isolates Quaker Oats' portfolio performance for strategic loyalty deep dives.  
 - Featured in pie charts and loyalty-pressure visuals.  
@@ -83,7 +83,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `MaltOMeal_Total_Sales`  
+### 🟩 MaltOMeal Total Sales  
 **Use Case:**  
 - Analyzes MOM’s volume-driven strength in value segments.  
 - Paired with loyalty scores to assess brand stickiness.  
@@ -91,7 +91,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `MaltOMeal_Sales_Percent`  
+### 🟩 MaltOMeal Sales Percent 
 **Use Case:**  
 - Measures MOM’s share of total sales by brand.  
 - Supports intrabrand positioning and cost-conscious buyer analysis.  
@@ -99,7 +99,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `Total_Sales_Loyalty`  
+### 🟩 Total SalesSLoyalty  
 **Use Case:**  
 - Compares loyalty-generated sales to total sales volume.  
 - Helps detect performance pressure or upside from repeat buyers.  
@@ -107,9 +107,9 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-## 🔷 2. Price and Elasticity Measures
+##  2. Price and Elasticity Measures
 
-### ✅ `Average_Price_by_Brand`  
+### 🟪 Average Price by Brand  
 **Use Case:**  
 - Core input for inflation trend modeling and price variance by portfolio.  
 - Used in perceived pricing and shrinkflation analysis.  
@@ -117,7 +117,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `Average_Price_by_Retailer`  
+### 🟪 Average Price by Retailer  
 **Use Case:**  
 - Retailer benchmark analysis for strategic pricing.  
 - Enables regional forecasting, margin comparisons, and positioning insights.  
@@ -125,7 +125,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `Average_Price_Per_Ounce_by_Retailer`  
+### 🟪 Average Price Per Ounce by Retailer  
 **Use Case:**  
 - Standardizes pricing for cross-retailer comparison.  
 - Supports shrinkflation analysis and value communication modeling.  
@@ -133,7 +133,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 
 ---
 
-### ✅ `Price_Per_Ounce`  
+### 🟪 Price Per Ounce 
 **DAX Code:**  
 ```dax
 Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
@@ -145,7 +145,7 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-### ✅ `Actual_Price_Per_Ounce`  
+### 🟪 Actual Price Per Ounce  
 **Use Case:**  
 - Used to map true unit costs in scatter plots.  
 - Paired with perceived price for behavioral gap analysis.  
@@ -153,7 +153,7 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-### ✅ `Perceived_Price_Per_Ounce`  
+### 🟪 Perceived Price Per Ounce  
 **Use Case:**  
 - Captures consumer expectation or interpreted value.  
 - Used in anchoring bias, price psychology, and BOGO/no-promo behavior modeling.  
@@ -161,7 +161,7 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-### ✅ `Price_Volatility`  
+### 🟪 Price Volatility 
 **Use Case:**  
 - Measures variance in pricing over time by brand or retailer.  
 - Supports elasticity curves and risk forecasting.  
@@ -169,7 +169,7 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-### ✅ `Price_Volatility_by_Product`  
+### 🟪 Price Volatility by Product  
 **Use Case:**  
 - Highlights inconsistencies at the product level.  
 - Supports SKU rationalization, promo risk, and consumer confidence strategy.  
@@ -177,9 +177,9 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-## 🔷 3. Segmentation, Loyalty & Ranking Measures
+##  3. Segmentation, Loyalty & Ranking Measures
 
-### ✅ `Loyalty_Status`  
+### 🟦 Loyalty Status   
 **Use Case:**  
 - Classifies customers as Repeat or Switch based on purchase history.  
 - Used to calculate switch frequency and segment loyalty value.  
@@ -187,7 +187,7 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-### ✅ `Retailer_Sales_Rank`  
+### 🟦 Retailer Sales Rank 
 **Use Case:**  
 - Ranks retailer performance by total sales.  
 - Enables retail segmentation and market share forecasting.  
@@ -195,7 +195,7 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-## 🧠 Analytical Themes Enabled
+##  Analytical Themes Enabled
 
 These DAX measures collectively power the following strategic frameworks:
 
