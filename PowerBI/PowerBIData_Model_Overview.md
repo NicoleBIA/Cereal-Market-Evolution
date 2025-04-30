@@ -8,7 +8,7 @@ The model is anchored by **Retailer_Batch_Key**, a unique key that **connects al
 ---
 
 ## Power BI Data Model
-![Cereal Sales Performance Data Model](Assets/Cereal_Market_Evolution_DataModel.png)
+![Cereal Sales Performance Data Model](Images/Cereal_Market_Evolution_DataModel.png)
 
 ## 🔑 Retailer_Batch_Key: The Core Relational Key  
 
