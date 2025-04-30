@@ -2,12 +2,12 @@
 
 > 🎯 **Looking for the strategic rationale behind this analysis?**  
 > Explore the companion documents:  
-> 🔗 [Behavioral Spotlights](../Behavioral_Spotlight/)  
-> 🔗 [Strategic Recommendations](../Strategic_Recommendations/)
+> 🔗 [Behavioral Spotlights](/Behavioral_Spotlight)  
+> 🔗 [Strategic Recommendations](/Strategic_Recommendations)
 
 ---
 
-## 📌 Project Theme and Scope
+##  Project Theme and Scope
 
 **Harvest View CPG** and the **Retail Intelligence Alliance (RIA)** partnered in a simulated industry engagement to analyze consumer behavior, pricing psychology, and promotional effectiveness across the U.S. cold cereal market (2020–2025). This report delivers strategic intelligence to:
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Executive Summary
+## 🟦 Executive Summary
 
 Through advanced behavioral modeling, Power BI dashboards, and relational dataset construction, this project offers actionable insight into how price perception, promotional structure, and loyalty shape profitability and market positioning in the cereal industry.
 
