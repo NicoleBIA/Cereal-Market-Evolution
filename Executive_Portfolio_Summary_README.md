@@ -1,5 +1,7 @@
 # Cereal Sales Performance – Executive Business Intelligence Report: Portfolio Summary Review
 
+![Cereal Sales Performace Strategic Business Intelligence Report](Images/Cereal_Sales_Performance_Cover.png)
+
 >  **Looking for the strategic rationale behind this analysis?**  
 > Explore the companion documents:  
 > 🔗 [Behavioral Spotlights](/Behavioral_Spotlight)  
