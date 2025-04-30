@@ -1,20 +1,23 @@
 # 📊 Power BI Data Model Overview  
 
-## 🔑 Establishing a Strong Data Foundation  
+## 🟦 Establishing a Strong Data Foundation  
 The **Cereal Market Evolution: Pricing, Inflation & AI-Driven Consumer Insights** project leverages a structured **Power BI Data Model** to ensure **seamless relationships, accurate calculations, and scalable business intelligence insights.**  
 
 The model is anchored by **Retailer_Batch_Key**, a unique key that **connects all datasets** and facilitates cross-analysis across pricing, brand-switching, price sensitivity, and market trends.
 
 ---
 
+## Power BI Data Model
+![Cereal Sales Performance Data Model](Assets/Cereal_Market_Evolution_DataModel.png)
+
 ## 🔑 Retailer_Batch_Key: The Core Relational Key  
 
-### ✅ Purpose of Retailer_Batch_Key  
+### 🟢 Purpose of Retailer_Batch_Key  
 - Serves as the **primary key** across all datasets.  
 - Enables **one-to-many relationships** between the **master pricing dataset** and **supplementary datasets**.  
 - Supports **efficient querying & accurate cross-referencing** in Power BI.  
 
-### ✅ Datasets Connected via Retailer_Batch_Key  
+### 🟢 Datasets Connected via Retailer_Batch_Key  
 - **Cereal Sales & Pricing Dataset** → Master dataset  
 - **Loyalty & Brand Switching Data** → Tracks brand-switching behavior  
 - **Perceived Price vs. Actual Price Data** → Analyzes price perception accuracy  
