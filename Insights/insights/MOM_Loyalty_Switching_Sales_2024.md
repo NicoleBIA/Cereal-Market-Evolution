@@ -53,7 +53,6 @@ This insight supports a broader strategic opportunity for both:
 - **MOM (Post Consumer Brands)**, which can position Frosted Flakes and Berry Colossal Crunch as *hero products* across regional and national markets.
 
 A dedicated strategy breakdown for both Retailer and Brand layers will be documented in a future insights file:
-🟢 [Strategic Recommendation →](../Strategic_Recommendations/MOM_Loyalty_Strategy_Recommendation.md)
-
+🟢 [Strategic Recommendation →](/Strategic_Recommendations/MOM_Loyalty_Strategy_Recommendation.md)
 
 ---
