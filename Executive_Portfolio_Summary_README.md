@@ -1,13 +1,13 @@
 # Cereal Sales Performance – Executive Business Intelligence Report: Portfolio Summary Review
 
-> 🎯 **Looking for the strategic rationale behind this analysis?**  
+>  **Looking for the strategic rationale behind this analysis?**  
 > Explore the companion documents:  
 > 🔗 [Behavioral Spotlights](/Behavioral_Spotlight)  
 > 🔗 [Strategic Recommendations](/Strategic_Recommendations)
 
 ---
 
-##  Project Theme and Scope
+## 🟪 Project Theme and Scope
 
 **Harvest View CPG** and the **Retail Intelligence Alliance (RIA)** partnered in a simulated industry engagement to analyze consumer behavior, pricing psychology, and promotional effectiveness across the U.S. cold cereal market (2020–2025). This report delivers strategic intelligence to:
 
@@ -24,7 +24,7 @@ This cross-functional analysis blends CPI inflation benchmarks, pricing elastici
 
 ---
 
-## 🎯 What Stakeholders Gain
+## 🟩 What Stakeholders Gain
 
 - **Executives**: CPG and Retailer-level pricing recommendations backed by loyalty and inflation models  
 - **BI Leaders**: Behavioral economic insight applied to price perception and SKU-level loyalty  
@@ -32,13 +32,13 @@ This cross-functional analysis blends CPI inflation benchmarks, pricing elastici
 
 ---
 
-## 🔍 Introduction
+## 🟪 Introduction
 
 This report presents a simulated, full-scale BI engagement that transforms complex cereal market behavior into a rich decision-support framework. Designed in Power BI, it includes over **21 visual narratives**, interactive slicers, and DAX-powered metrics.
 
 ---
 
-## 🛠 Business Problem
+## 🟡 Business Problem
 
 As inflation accelerates and shrinkflation reduces perceived value, brands and retailers face three major risks:
 
@@ -48,7 +48,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## ❓ Business Questions
+## 🟩 Business Questions
 
 - Which brands maintained loyalty despite pricing shifts?
 - How do promotions (e.g., BOGO, 10% Off, Clearance) affect sales behavior?
@@ -58,9 +58,9 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🔦 Selected Strategic Spotlights
+##  Selected Strategic Spotlights
 
-### 📌 Intra-Brand Rotation & Stickiness  
+### 🟢 Intra-Brand Rotation & Stickiness  
 ![MOM Intrabrand Rotation](../Images/MOM_Intrabrand_Rotation_Loyalty.png)
 
 - Strategic insight: Flexible product switching within Malt-O-Meal (MOM) drives value without losing loyalty.  
@@ -68,7 +68,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-### 📌 Repeat Purchase Rates & Loyalty Behavior  
+### 🟣 Repeat Purchase Rates & Loyalty Behavior  
 ![Loyalty vs Switching](../Images/Loyalty_vs_Switching_Consumer_Behavior.png)
 
 - 16.09% repeat rate at Kroger for MOM reveals brand loyalty tied to affordability and value.  
@@ -76,7 +76,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-### 📌 Pricing Perception & Margin Playbook  
+### 🔵 Pricing Perception & Margin Playbook  
 ![Froot Loops at Kroger](../Images/Average_Price_per_Ounce_FrootLoops_Kroger.png)
 
 - Froot Loops’ 31.9% price increase over 4 years shows how legacy products support quiet margin gain.  
@@ -84,7 +84,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-### 📌 Volatility & Price Stability Tradeoff  
+### 🟣 Volatility & Price Stability Tradeoff  
 ![Volatility View](../Images/Price_Volatility_and_Key_Influencers.png)
 
 - Retailers with “stable” prices like Costco actually carried the **highest** average unit costs.  
@@ -92,9 +92,9 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🧃 Breakout Analysis Sections
+## 🟦 Breakout Analysis Sections
 
-### 📌 Costco – Perception vs. Promotion Distortion  
+### 🟣 Costco – Perception vs. Promotion Distortion  
 ![Costco Cinnamon Toast Crunch BOGO](../Images/Costco_CinnamonToastCrunch_BOGO_Price_Perception.png)
 
 - Visual proof of hidden BOGO distortion impacting perceived vs. actual price  
