@@ -72,7 +72,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ![Loyalty vs Switching](/Images/Loyalty_vs_Switching_Consumer_Behavior.png)
 
 - 16.09% repeat rate at Kroger for MOM reveals brand loyalty tied to affordability and value.  
-- [Explore Insight →](/Behavioral_Spotlight/Insights/insights/MOM_Loyalty_Switching_Sales_2024.md)
+- [Explore Insight →](/Insights/insights/MOM_Loyalty_Switching_Sales_2024.md)
 
 ---
 
