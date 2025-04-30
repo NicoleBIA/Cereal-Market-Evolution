@@ -16,8 +16,8 @@ Instead of interpreting intra-brand switching as churn, MOM and its retail partn
 
 These patterns are especially evident at **Kroger**, where MOM’s Frosted Flakes and Berry Colossal Crunch are outperforming name-brand equivalents in both **repeat purchase rates** and **low switch frequency scores.**
 
-![Malt-O-Meal Frosted Flakes vs Kelloggs Frosted Flakes](/Images/MOM_vs_Kelloggs_Frosted_Flakes_Loyalty-SwitchingTT.png)
-![Kelloggs Frosted Flakes Malt-O-Meal Frosted Flakes](/Images/Kelloggs_vs_MOM_Frosted_Flakes_Loyalty-SwitchingTT.png)
+![Malt-O-Meal Frosted Flakes vs Kelloggs Frosted Flakes](../Images/MOM_vs_Kelloggs_Frosted_Flakes_Loyalty-SwitchingTT.png)
+![Kelloggs Frosted Flakes Malt-O-Meal Frosted Flakes](../Images/Kelloggs_vs_MOM_Frosted_Flakes_Loyalty-SwitchingTT.png)
 
 ---
 
