@@ -95,7 +95,8 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ## 🟦 Breakout Analysis Sections
 
 ### 🟣 Costco – Perception vs. Promotion Distortion  
-![Costco Cinnamon Toast Crunch BOGO](../Images/Costco_CinnamonToastCrunch_BOGO_Price_Perception.png)
+![Costco Cinnamon Toast Crunch BOGO](/Images/Costco_CinnamonToastCrunch_BOGO_Price_Perception.png)
+[Read Cinnamon Toast Crunch Behabioral Spotlight](/Behavioral_Spotlight/Club_Stores_CTC_Price_Perception.md)
 
 - Visual proof of hidden BOGO distortion impacting perceived vs. actual price  
 - Strategic alert for brands relying on volume-pack deals with unclear pricing
