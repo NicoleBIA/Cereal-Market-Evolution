@@ -195,20 +195,6 @@ Price_Per_Ounce = DIVIDE([Price_USD], [Package_Size_Oz])
 
 ---
 
-##  Analytical Themes Enabled
-
-These DAX measures collectively power the following strategic frameworks:
-
-| Theme                          | Description                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------|
-| **Segmentation Modeling**     | Regional, brand, and consumer segmentation based on price, loyalty, and sales. |
-| **Forecasting & Trend Models**| YoY sales trends, retailer volume forecasting, and pricing response curves.  |
-| **Shrinkflation Diagnostics** | Analysis of package size, price per ounce, and margin masking.              |
-| **Elasticity & Behavior**     | Analysis of price sensitivity, loyalty stickiness, and consumer urgency.     |
-| **Perception vs. Reality**    | Comparison of expected vs. actual pricing through scatter plots and DAX pairs.|
-
----
-
 ### 1️⃣ Total Sales Calculation  
 This measure calculates **total revenue**, multiplying unit price by sales volume.
 
@@ -236,10 +222,27 @@ Unique_Retailers = DISTINCTCOUNT(Cereal_Sales_Pricing_Dataset_Corrected[Retailer
 - Helps **validate data integrity** by ensuring no duplicate retailer entries.
 - Used in dashboards to analyze Retailer Product Offerings & Exclusivity trends.
 
+---
+
+
+## 🟣 Analytical Themes Enabled
+
+These DAX measures collectively power the following strategic frameworks:
+
+| Theme                          | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| **Segmentation Modeling**     | Regional, brand, and consumer segmentation based on price, loyalty, and sales. |
+| **Forecasting & Trend Models**| YoY sales trends, retailer volume forecasting, and pricing response curves.  |
+| **Shrinkflation Diagnostics** | Analysis of package size, price per ounce, and margin masking.              |
+| **Elasticity & Behavior**     | Analysis of price sensitivity, loyalty stickiness, and consumer urgency.     |
+| **Perception vs. Reality**    | Comparison of expected vs. actual pricing through scatter plots and DAX pairs.|
+
+---
+
 ### Why These Measures are **Critical** ?
-- ✅ Total Sales Calculation → Provides key revenue insights for pricing impact analysis.
-- ✅ Unique Retailers Measure → Validates data integrity and helps analyze retailer exclusivity strategies.
-- ✅ Retailer_Batch_Key → Ensures efficient data structuring and enhances model performance.
+- 🟩 Total Sales Calculation → Provides key revenue insights for pricing impact analysis.
+- 🟩 Unique Retailers Measure → Validates data integrity and helps analyze retailer exclusivity strategies.
+- 🟩 Retailer_Batch_Key → Ensures efficient data structuring and enhances model performance.
 
 -----
 
