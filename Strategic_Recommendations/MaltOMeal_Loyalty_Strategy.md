@@ -2,7 +2,7 @@
 
 ---
 
-![Cereal Sales Malt-O-Meal Strategic Recommendations](/Images/Cereal_sales_Performance_Cover.png)
+![Cereal Sales Malt-O-Meal](/Images/Cereal_Sales_Performance_Cover.png)
 
 ## Business Question 
 **Which cereal brands show the highest consumer loyalty during inflationary periods, and how does this behavior vary across budget vs. premium or store-brand categories?**
