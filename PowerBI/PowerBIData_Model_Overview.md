@@ -88,6 +88,7 @@ Total_Sales = SUM(Cereal_Sales_Pricing_Dataset_Corrected[Price_USD] * Cereal_Sal
 - Analyzes MOM’s volume-driven strength in value segments.  
 - Paired with loyalty scores to assess brand stickiness.  
 - Used in intra-brand segmentation visuals.
+[Malt-O-Meall](/Images/MOM_Intrabrand_Rotation_Loyalty.png)
 
 ---
 
