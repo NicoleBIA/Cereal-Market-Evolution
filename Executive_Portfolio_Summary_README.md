@@ -4,7 +4,8 @@
 
 >  **Looking for the strategic rationale behind this analysis?**  
 > Explore the companion documents:  
-> 🔗 [Behavioral Spotlights](/Behavioral_Spotlight)  
+> 🔗 [Behavioral Spotlights](/Behavioral_Spotlight)
+> 🔗 [Cereal Sales Insights](/Insights/insights)
 > 🔗 [Strategic Recommendations](/Strategic_Recommendations)
 
 ---
