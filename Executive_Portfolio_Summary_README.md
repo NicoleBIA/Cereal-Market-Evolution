@@ -142,7 +142,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ## 🧩 Strategic Recommendations Summary
 
 > Find the full recommendations here:  
-> 🔗 [Strategic Recommendations Folder →](../Strategic_Recommendations/)
+> 🔗 [Strategic Recommendations Folder →](Strategic_Recommendations)
 
 - Redesign promotional strategy using Perceived Price Difference (PPD)  
 - Re-anchor pricing in consumer memory using unit price formatting  
