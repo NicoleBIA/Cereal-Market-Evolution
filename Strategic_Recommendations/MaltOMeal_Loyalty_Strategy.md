@@ -25,7 +25,7 @@ Understanding **brand stickiness versus price-driven switching** helps inform pr
 
 ---
 
-# Executive Summary
+# 🟦 Executive Summary
 
 The loyalty and brand switching data for 2024 reveals **Malt-O-Meal (MOM)** as a **standout performer among value-priced cereal brands**, particularly at **Kroger**. Despite being a national budget brand, MOM consistently outperforms both private label store brands and more established legacy brands like Quaker in key loyalty metrics.
 
@@ -37,7 +37,7 @@ This insight suggests MOM has built **strong intrabrand loyalty**, where custome
 
 ---
 
-## 🧩 Behavioral & Market Psychology Insight
+## 🟪 Behavioral & Market Psychology Insight
 
 From a consumer psychology perspective, **MOM has achieved the holy grail of value branding**—it delivers affordability without triggering the “compromise effect” often seen with budget products.
 
