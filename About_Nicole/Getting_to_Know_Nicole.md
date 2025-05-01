@@ -32,5 +32,9 @@ I also have specialized skills training in:
 - Advanced Data Visualization
 - SQL SSMS
 - Strategic Project Management Fundamentals
+- Project Management
+- Advanced Data Visualization
+- Process Mapping
 
+My education spans coomunication, international business and psychology.
   
