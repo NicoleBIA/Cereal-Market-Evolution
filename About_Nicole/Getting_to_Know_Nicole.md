@@ -39,6 +39,6 @@ I have a diverse educational background consisting of:
 - Bachelor of Arts degree in Communication
 - Master of Science dehree in Management specializing in International Business
 - Five years of Doctoral Studies in Industrial Organizational Psychology
-  > While I chose not to complete the program for personal reasons, the experience gave me a strong foundation in theory and applied skills that I still draw from in my work today in quantitative and qualitative data analysis, consumer psychology, behavioral economics.
+  > While I didn’t complete the program for personal reasons, I’m incredibly grateful for the depth of learning I gained during those five years. It built a strong foundation I still draw from today—especially in areas like quantitative and qualitative analysis, consumer psychology, and behavioral economics.
 
   ---
