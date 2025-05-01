@@ -112,6 +112,9 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 - Quaker Oats sees high revenue with **lower loyalty**, indicating retention challenges  
 - Repeat Buyer metrics reveal cost-conscious loyalty during **No Promotion** periods
 
+> Quaker Oats vs Malt-O-Meal Overall Performance
+![Quaker Oats vs Malt-O-Meal Overall Performance](/Images/QOC_vs_MOM_Loyalty_Sales.png)
+
 ---
 
 ## 🟪 Key Visual Narratives & Insights
