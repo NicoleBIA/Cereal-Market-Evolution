@@ -45,6 +45,28 @@ This summary showcases end-to-end strategic BI execution, insight modeling, and 
 
 ---
 
+### 🟦 Promotion Strategy Insights
+- **No Promotion periods outperformed discounts**, signaling a shift toward habitual, necessity-driven purchasing.
+- **BOGO deals** proved more effective than **10% Off**, both in volume and dollar lift.
+- Shoppers may be **ignoring light discounts** entirely, especially under inflationary stress.
+
+#### 🟪 BOGO Promotions: Behavioral Triggers and Volume Thresholds  
+Power BI’s **Key Influencers and Segmenter visual** revealed a data-driven relationship between sales volume and BOGO promotion likelihood:
+
+- 🔵 **Trigger Threshold:**  
+  When **Retailer Sales exceed $953.13**, the likelihood of a BOGO promotion increases by **2%** (*Lift = 1.02x*).
+
+- 🟢 **High-Probability Segment:**  
+  Segment 1 showed a **26.3% likelihood of BOGO** usage when **Total Sales ranged between $1,559.16 and $1,852.96**.
+
+- 🟡 **Average BOGO Activation Point:**  
+  Across the dataset, BOGO was most frequently triggered around **$1,619.56 in retailer sales**.
+
+> **Strategic Implication:**  
+> BOGO promotions are not random—they’re deployed predictively at a **sweet spot of sales performance**, balancing momentum and margin management. Retailers can use these thresholds to simulate promotional timing and effectiveness.
+
+---
+
 ### 🟩 AI-Driven Price Analysis
 - AI models projected higher price ceilings than retailers implemented—suggesting **intentional restraint**.
 - Private labels like **Good & Gather** and **Member’s Mark** showed near-perfect alignment to AI projections.
