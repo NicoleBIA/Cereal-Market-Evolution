@@ -117,7 +117,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 > Malt-O-Meal Overtakes Quaker Oats Company in Sales Q4 2024
 ![Malt-O-Meal vs Quaker Oats Company](/Images/MOM_Leads_QOC_Q4_2024.png)
-> MOM’s lower unit cost and comparable flavor may be quietly shifting consumer behavior. In Q4 2024, MOM briefly overtook Quaker in sales, hinting at pressure ahead. **Cap'n Crunch Berries nostalgia wins hearts, but Berry Colossal Crumch's value wins baskets**.
+> Malt-o-Meal's lower unit cost and comparable flavor may be quietly shifting consumer behavior. In Q4 2024, Malt-O-Meal briefly overtook Quaker in sales, hinting at pressure ahead. **Cap'n Crunch Berries nostalgia wins hearts, but Berry Colossal Crumch's value wins baskets**.
 
 ---
 
