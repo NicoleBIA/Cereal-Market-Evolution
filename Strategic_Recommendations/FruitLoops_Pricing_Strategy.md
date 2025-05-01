@@ -23,7 +23,7 @@ To **maximize margin recovery** and **pricing power** for Froot Loops across maj
 
 > 🎶 **Price Perception Remix™**  
 > *“The further down the hole the negative price perception goes...  
-> The higher price increases can goooo...”*  
+> The higher and higher price increases can go go go...”*  
 > — Nicole Reaves, Strategic Business Intelligence Studio
 
 ---
