@@ -33,7 +33,6 @@ I also have specialized skills training in:
 - SQL SSMS
 - Strategic Project Management Fundamentals
 - Project Management
-- Advanced Data Visualization
 - Process Mapping
 
 I have a diverse educational background consisting of:
