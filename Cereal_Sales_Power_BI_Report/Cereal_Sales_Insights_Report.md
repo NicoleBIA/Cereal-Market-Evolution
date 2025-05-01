@@ -54,7 +54,7 @@ This summary showcases end-to-end strategic BI execution, insight modeling, and 
 
 ### 🔵 Price Volatility & Behavioral Pricing
 - Power BI Key Influencers revealed:  
-    🔵 *As sales fall, $/oz tends to rise*—a **counterintuitive inflation hedge**.
+> *As sales fall, $/oz tends to rise*—a **counterintuitive inflation hedge**.
 - **Walmart** had the highest price volatility, but **Costco** had some of the **highest $/oz pricing** despite price stability.
 - Insight: **Price "calmness" ≠ affordability**.
 
