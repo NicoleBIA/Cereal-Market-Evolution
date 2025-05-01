@@ -36,5 +36,9 @@ I also have specialized skills training in:
 - Advanced Data Visualization
 - Process Mapping
 
-My education spans coomunication, international business and psychology.
+I have a diverse educational background consisting of:
+- Bachelor of Arts degree in Communication
+- Master of Science dehree in Management specializing in International Business
+- Five years of Doctoral Studies in Industrial Organizational Psychology
+  > I did not complete this program for personal reasons, but I am grateful for the broad depth of kmowledge and skills I gained in my time in the program.
   
