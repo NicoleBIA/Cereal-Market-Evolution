@@ -3,7 +3,7 @@
 
 ---
 
-## Why Storytelling Matters in Business Intelligence
+## 🟪 Why Storytelling Matters in Business Intelligence
 
 Business Intelligence isn’t just about charts, dashboards, or tools—it’s about helping real people make smarter decisions. I believe data should do more than inform. It should *guide, influence, and provoke action.*
 
@@ -11,7 +11,7 @@ In a world overflowing with dashboards, I create intelligence products.
 
 ---
 
-## The Problem I Noticed
+## 🟦 The Problem I Noticed
 
 As I explored the BI and analytics community—especially on platforms like LinkedIn—I noticed a trend:
 
@@ -29,9 +29,9 @@ I approach every dataset, dashboard, and visualization with one question:
 **“What does this mean—and what should we do about it?”**
 
 ### My Core Philosophy:
-- 📦 **Minimal noise. Maximum meaning.**  
-- 🎯 **Every visual earns its place.**  
-- 💡 **Insight > Impression.**  
+- 🟣 **Minimal noise. Maximum meaning.**  
+- 🟢 **Every visual earns its place.**  
+- 🔵 **Insight > Impression.**  
 - 🧠 **Behavioral psychology + business intelligence = decision power.**
 
 Dashboards shouldn’t just show the *what*. They must uncover the *why*, illuminate the *how*, and spark the *what next*.
@@ -58,7 +58,7 @@ While **Tableau** offers a different UX/UI experience, I apply the same core des
 
 ---
 
-## 💬 Why I Prioritize Insight Boxes
+## 🟪 Why I Prioritize Insight Boxes
 
 An insight box may be small—but its impact is powerful. It’s where the chart *breathes*. It’s where I speak directly to the user and say:
 
