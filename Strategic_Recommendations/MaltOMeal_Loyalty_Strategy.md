@@ -13,12 +13,12 @@ Understanding **brand stickiness versus price-driven switching** helps inform pr
 
 ---
 
-## Embedded Visuals
+## 🟪 Embedded Visuals
 
-### 🔹 Loyalty Sales Volume by Brand – 2024 (Kroger Focus)
+### Loyalty Sales Volume by Brand – 2024 (Kroger Focus)
 ![Loyalty Sales Volume](../Images/loyalty_sales_volume_by_brand2_2024.png)
 
-### 🔹 MOM Product-Level Loyalty & Switch Behavior
+### MOM Product-Level Loyalty & Switch Behavior
 ![MOM Loyalty Spotlight](../Images/mom_intra_brand_loyalty_spotlight2.png)
 
 ---
@@ -48,9 +48,9 @@ This results in **anchored loyalty**, where buyers don’t view MOM as a downgra
 
 ---
 
-##  Strategic Recommendations
+## 🟩 Strategic Recommendations
 
-### 🔹 For MOM (Post Consumer Brands)
+### For MOM (Post Consumer Brands)
 1. **Double Down on Product Stickiness**
    - Promote hero products (like Froted Flakes and Berry Colossal Crunch) as “Smart Choice Favorites”
    - Use in-store and digital ads to reinforce taste and value messaging
@@ -65,7 +65,7 @@ This results in **anchored loyalty**, where buyers don’t view MOM as a downgra
 
 ---
 
-### 🔹 For Competing Brands (e.g., Quaker, Store Brands)
+### For Competing Brands (e.g., Quaker, Store Brands)
 1. **Study MOM’s Perceived Value Positioning**
    - Consumers may not be switching for price alone, but for perceived satisfaction
    - Competitive strategy must address **taste trust + value**, not just discounts
