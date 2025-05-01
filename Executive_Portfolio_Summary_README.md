@@ -106,7 +106,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 💡 Loyalty Analysis Highlights
+## 🟩 Loyalty Analysis Highlights
 
 - Malt-O-Meal maintains **brand loyalty via product rotation**, not consumer stickiness to a SKU  
 - Quaker Oats sees high revenue with **lower loyalty**, indicating retention challenges  
@@ -114,7 +114,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🧭 Key Visual Narratives & Insights
+## 🟪 Key Visual Narratives & Insights
 
 - Retailer Sales Rank Volatility  
 - Average Price per Ounce vs. Perceived Price per Ounce  
@@ -124,7 +124,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🧪 Techniques & Tools Used
+## 🔵 Techniques & Tools Used
 
 - Power BI (Data Modeling, Slicers, Forecasts)  
 - DAX (Custom measures for price, loyalty, and margin)  
@@ -134,7 +134,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🔑 Key Findings
+## 🟣 Key Findings
 
 - Consumers overestimate value loss during **stable pricing periods**, leading to misaligned price trust  
 - Promotions like BOGO can **inflate** perceived savings, but erode actual unit margin  
@@ -142,7 +142,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🧩 Strategic Recommendations Summary
+## 🔵 Strategic Recommendations Summary
 
 > Find the full recommendations here:  
 > 🔗 [Strategic Recommendations Folder →](Strategic_Recommendations)
@@ -154,7 +154,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🤖 AI-Driven Strategy Opportunities
+## 🟪 AI-Driven Strategy Opportunities
 
 - Forecast pricing sensitivity by retailer, brand, and region  
 - Use AI to model margin recovery strategies based on shrinkflation trends  
@@ -162,7 +162,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🏪 Retail Intelligence Alliance – Business Value
+## 🟪 Retail Intelligence Alliance – Business Value
 
 - Insight into how perception, not just price, drives SKU and unit margin performance  
 - Opportunity to test pricing structures without changing MSRP  
@@ -170,7 +170,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🏭 Harvest View CPG – Business Value
+## 🟦 Harvest View CPG – Business Value
 
 - Understand private-label risk in low-trust promotions  
 - Reveal brand strength in intra-portfolio switching behavior  
@@ -178,7 +178,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## ⚠️ Risks of Inaction
+## 🟡 Risks of Inaction
 
 - Missed margin expansion via undervalued legacy brands  
 - Retailer conflict from inconsistent price-pack structure  
@@ -186,7 +186,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🧱 Limitations & Data Constraints
+## 🟪 Limitations & Data Constraints
 
 - Simulated CPI values, not live market feeds  
 - Some perceived price values approximated via range bins  
@@ -194,7 +194,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 
 ---
 
-## 🔭 Future Analysis Opportunities
+## 🟩 Future Analysis Opportunities
 
 - Integrate real CPI feeds for dynamic inflation alignment  
 - Build retailer-specific price elasticity simulations  
