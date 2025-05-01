@@ -26,6 +26,8 @@ To **maximize margin recovery** and **pricing power** for Froot Loops across maj
 > The higher and higher price increases can go go go...”*  
 > — Nicole Reaves, Strategic Business Intelligence Studio
 
+Learn more about Price Pereption Difference Here [Price Perception Difference](/Documentation/Price_Perception_Behavioral_Logic.md)
+
 ---
 
 ## 🟪 Recommended Actions
