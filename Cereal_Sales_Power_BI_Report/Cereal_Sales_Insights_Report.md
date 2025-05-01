@@ -3,7 +3,7 @@
 
 This Strategic Business Intelligence Report (SBIR) explores the evolution of the U.S. cereal market from **2020 to Q1 2025**, analyzing how inflation, retailer pricing, brand loyalty, and consumer psychology intersect to drive sales outcomes. Built using Power BI and layered with behavioral analytics, the report captures over **$67M in simulated retail performance**.
 
-📎 [**View Full Report PDF**](./Cereal_Sales_Power_BI_Report/Cereal_Sales_Performance_Inflattion_Pricing_Consumer_Loyalty_Insights.pdf)
+📎 [**View Full Report PDF**](/Cereal_Sales_Power_BI_Report/Cereal_Sales_Performance_Inflattion_Pricing_Consumer_Loyalty_Insights.pdf)
 
 ---
 
