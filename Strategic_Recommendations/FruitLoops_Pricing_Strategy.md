@@ -1,7 +1,7 @@
 # Strategic Recommendation: Fruit Loops Pricing Optimization Strategy
 
 🟣 Aligned Insight:
-[Insight: Fruit Loops Pricing Behavior – Price Perception, Legacy Trust & Quiet Margin Gain](../../Insights/insights/fruit_loops_price_perception_kroger_walmart.md)
+[Insight: Fruit Loops Pricing Behavior – Price Perception, Legacy Trust & Quiet Margin Gain](/Insights/insights/fruit_loops_price_perception_kroger_walmart.md)
 
 ---
 
