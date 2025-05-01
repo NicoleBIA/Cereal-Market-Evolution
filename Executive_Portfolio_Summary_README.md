@@ -116,7 +116,7 @@ As inflation accelerates and shrinkflation reduces perceived value, brands and r
 ![Quaker Oats vs Malt-O-Meal Overall Performance](/Images/QOC_vs_MOM_Loyalty_Sales.png)
 
 > Malt-O-Meal Overtakes Quaker Oats Company in Sales Q4 2024
-![Malt-O-Meal vs Quaker Oats Company](/Images/MOM-Leads_QOC_Q4_2024)
+![Malt-O-Meal vs Quaker Oats Company](/Images/MOM_Leads_QOC_Q4_2024)
 > MOM’s lower unit cost and comparable flavor may be quietly shifting consumer behavior. In Q4 2024, MOM briefly overtook Quaker in sales, hinting at pressure ahead. **Nostalgia wins hearts, but value wins baskets**.
 
 ---
