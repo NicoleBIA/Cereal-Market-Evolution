@@ -1,4 +1,4 @@
-# 🧠 Promotion-Based Segmentation Model
+# 🟪 Promotion-Based Segmentation Model
 
 ### Overview  
 This segmentation model isolates and analyzes cereal sales performance based on **promotion type** — specifically:  
@@ -26,7 +26,7 @@ This segmentation ensures that I’m not aggregating behavior that should be **s
 
 ---
 
-## 💬 Business Questions This Model Helps Answer
+## 🟦 Business Questions This Model Helps Answer
 
 - Which promotions generate the **highest lift in sales volume**?
 - Do **BOGO or 10% Off** tactics meaningfully shift **perceived price**?
@@ -46,7 +46,7 @@ This segmentation ensures that I’m not aggregating behavior that should be **s
 
 ---
 
-## 🧠 Strategic Value
+## 🟩 Strategic Value
 
 This model supports:
 - **Dynamic pricing recommendations** (e.g., when a 10% off promotion isn’t moving the needle)  
@@ -57,7 +57,7 @@ It also empowers me to provide **insightful, evidence-based recommendations** in
 
 ---
 
-## 💼 Value to the Business
+## 🟪 Value to the Business
 
 Promotion segmentation enables stakeholders to:
 - Avoid **ineffective or unnecessary discounts**
