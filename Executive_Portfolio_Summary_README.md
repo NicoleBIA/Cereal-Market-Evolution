@@ -32,7 +32,8 @@ Key insights include:
 
 These patterns highlight the nuanced relationship between consumer psychology, perceived value, and discount strategy. Leveraging behavioral economics, Power BI AI-driven visuals, and custom loyalty metrics, this report offers actionable recommendations for optimizing pricing strategies and sustaining market share in a volatile economic climate.
 
-**Transparency Note**: All insights, data transformations, and visualizations were developed manually through hands-on modeling, DAX calculations, and iterative design. The only AI-assisted element is the *Key Influencers* visual in Power BI, used intentionally to support and validate trends uncovered through exploratory analysis. This chart served as a complementary tool—**supporting** but not **generating** the insights. The entirety of the report reflects original analysis, strategic interpretation, and a strong commitment to transparency and analytical integrity.
+**Methodology Note:**
+> All data transformations, metrics, and visualizations were developed manually through DAX modeling, iterative design, and structured exploratory analysis. The only AI-assisted element—Power BI’s Key Influencers visual—was selectively used to validate observed patterns. It served as a complementary tool, not a driver of insight. This report reflects end-to-end analytical ownership, strategic interpretation, and a deep commitment to methodological transparency and integrity.
 
 ---
 
