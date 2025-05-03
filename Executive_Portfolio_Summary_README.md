@@ -22,9 +22,17 @@
 
 ## 🟦 Executive Summary
 
-Through advanced behavioral modeling, Power BI dashboards, and relational dataset construction, this project offers actionable insight into how price perception, promotional structure, and loyalty shape profitability and market positioning in the cereal industry.
+This analysis explores cereal sales performance between 2020–2025, uncovering how inflation, price sensitivity, and shifting consumer loyalty have impacted brand performance and retailer dynamics.
 
-This cross-functional analysis blends CPI inflation benchmarks, pricing elasticity, retailer strategy, and consumer psychology to simulate and forecast the impact of subtle changes in price structure, packaging, and promotional visibility.
+Key insights include:
+
+- A **13% decline in brand loyalty** during peak inflation periods (2022–2023)
+- A **projected 8% drop in unit sales** tied to AI-forecasted price increases
+- And, based on segmentation analysis, **“No Promotion” sales outperformed both 10% Off/Clearance by 11% and BOGO offers by 6%** in total revenue contribution
+
+These patterns highlight the nuanced relationship between consumer psychology, perceived value, and discount strategy. Leveraging behavioral economics, Power BI AI-driven visuals, and custom loyalty metrics, this report offers actionable recommendations for optimizing pricing strategies and sustaining market share in a volatile economic climate.
+
+> **Transparency Note**: All insights, data transformations, and visualizations were developed manually through hands-on modeling, DAX calculations, and iterative design. The only AI-assisted element is the *Key Influencers* visual in Power BI, used intentionally to support and validate trends uncovered through exploratory analysis. This chart served as a complementary tool—**supporting** but not **generating** the insights. The entirety of the report reflects original analysis, strategic interpretation, and a strong commitment to transparency and analytical integrity.
 
 ---
 
