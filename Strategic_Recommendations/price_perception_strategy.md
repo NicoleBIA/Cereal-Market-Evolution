@@ -4,7 +4,7 @@
 ---
 
 ### Business Question  
-How can brands and retailers strategically respond when **perceived price per ounce is significantly higher than actual price**, especially for legacy brands like Froot Loops that benefit from deep trust and consumer familiarity?
+How can brands and retailers strategically respond when **perceived price per ounce is significantly higher than the actual price**, especially for legacy brands like Froot Loops that benefit from deep trust and consumer familiarity?
 
 ---
 
