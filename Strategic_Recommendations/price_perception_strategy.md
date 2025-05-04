@@ -9,7 +9,7 @@ How can brands and retailers strategically respond when **perceived price per ou
 ---
 
 ## Executive Summary  
-The Price Expectation vs. Reality visual reveals a surprising behavioral pricing phenomenon: **consumers consistently overestimate the unit price of familiar national brands.** For example, Froot Loops (Kellogg’s) sold through Walmart is **perceived at $1.12/oz**, while the actual price is only **$0.44/oz** — a +154% perception gap.
+The Price Expectation vs. Reality visual reveals a surprising behavioral pricing phenomenon: **consumers consistently overestimate the unit price of familiar national brands.** For example, Froot Loops (Kellogg’s) sold through Walmart is **perceived at $1.12/oz**, while the actual price is only **$0.44/oz** a +154% perception gap.
 
 Rather than damaging sales, this perception gap **protects the brand**, reinforcing its premium identity and allowing price flexibility without eroding consumer trust. This behavioral “buffer” creates a **strategic opportunity** for both brands and retailers to lean into *perceived value positioning*.
 
@@ -46,7 +46,7 @@ Rather than damaging sales, this perception gap **protects the brand**, reinforc
   Especially where store brands cost more per ounce than national brands.
 
 - **Monitor perception gaps on legacy brands**:  
-  These can act as **price anchors** in-store — drawing traffic to known value.
+  These can act as **price anchors** in-store  drawing traffic to known value.
 
 - **Use loyalty apps to surface “better than you think” pricing**:  
   Targeted reminders that the price is lower than perception encourages conversion.
@@ -72,9 +72,9 @@ Rather than damaging sales, this perception gap **protects the brand**, reinforc
 
 This insight reinforces a core pricing truth:  
 
-> “A product's price is not just what it costs — it's what it *means*.”
+> “A product's price is not just what it costs, it's what it *means*.”
 
-When perception diverges from reality, there’s opportunity to reinforce value, enhance loyalty, and subtly shape buying behavior — without discounting.
+When perception diverges from reality, there’s opportunity to reinforce value, enhance loyalty, and subtly shape buying behavior without discounting.
 
 ---
 
