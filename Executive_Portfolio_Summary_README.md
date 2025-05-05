@@ -31,7 +31,7 @@ Key insights include:
 - A **projected 8% drop in unit sales** tied to AI-forecasted price increases
 - And, based on segmentation analysis, **“No Promotion” sales outperformed both 10% Off/Clearance by 11% and BOGO offers by 6%** in total revenue contribution
 
-These patterns highlight the nuanced relationship between consumer psychology, perceived value, and discount strategy. Leveraging behavioral economics, Power BI AI-driven visuals, and custom loyalty metrics, this report offers actionable recommendations for optimizing pricing strategies and sustaining market share in a volatile economic climate.
+These patterns highlight the nuanced relationship between consumer psychology, perceived value, and discount strategy. Leveraging behavioral economics, Power BI Key Influencers, and custom loyalty metrics, this report offers actionable recommendations for optimizing pricing strategies and sustaining market share in a volatile economic climate.
 
 **Methodology Note:**
 > All data transformations, metrics, and visualizations were developed manually through DAX modeling, iterative design, and structured exploratory analysis. The only AI-assisted element Power BI’s Key Influencers visual—was selectively used to validate observed patterns. It served as a complementary tool, not a driver of insight. This report reflects end-to-end analytical ownership, strategic interpretation, and a deep commitment to methodological transparency and integrity.
