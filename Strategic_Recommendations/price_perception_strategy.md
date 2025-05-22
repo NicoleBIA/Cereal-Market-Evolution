@@ -26,7 +26,7 @@ Rather than damaging sales, this perception gap **protects the brand**, reinforc
 
 ---
 
-### 🔹 For Brands (e.g., Kellogg’s, Quaker, Post)
+### For Brands (e.g., Kellogg’s, Quaker, Post)
 
 - **Protect perceived premium identity**:  
   Keep price adjustments subtle. Avoid dramatic drops that might signal “cheapness.”
@@ -40,7 +40,7 @@ Rather than damaging sales, this perception gap **protects the brand**, reinforc
 
 ---
 
-### 🔹 For Retailers (e.g., Walmart, Kroger, Target)
+### For Retailers (e.g., Walmart, Kroger, Target)
 
 - **Reinforce “value without compromise”** in shelf messaging:  
   Especially where store brands cost more per ounce than national brands.
@@ -53,7 +53,7 @@ Rather than damaging sales, this perception gap **protects the brand**, reinforc
 
 ---
 
-### 🔹 For Analysts & Pricing Strategy Teams
+### For Analysts & Pricing Strategy Teams
 
 - **Track perception gaps as behavioral KPIs**:  
   A large positive gap (perceived > actual) can serve as a metric of brand trust.
@@ -68,7 +68,7 @@ Rather than damaging sales, this perception gap **protects the brand**, reinforc
 
 ---
 
-### 🧠 Closing Thought
+### Closing Thought
 
 This insight reinforces a core pricing truth:  
 
