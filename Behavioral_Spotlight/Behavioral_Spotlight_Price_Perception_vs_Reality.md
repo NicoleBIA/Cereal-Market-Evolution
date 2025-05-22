@@ -1,10 +1,10 @@
-### 🧠 Price Perception vs. Reality – Behavioral Spotlight  
+### Price Perception vs. Reality – Behavioral Spotlight  
 **Tags:** `Behavioral Spotlight` • `Price Perception` • `Consumer Psychology` • `Amazon Fresh`  
 **Focus:** Behavioral Insight on Price Perception Differences (PPD) During No Promotion & BOGO Promotions for General Mills at Amazon Fresh
 
 ---
 
-## 🧠 Behavioral Spotlight: Price Perception vs. Reality at Amazon Fresh
+## Behavioral Spotlight: Price Perception vs. Reality at Amazon Fresh
 
 **Insight Theme:** *Simulated Savings, Real Impact*
 
@@ -17,11 +17,11 @@ The analysis leverages real-world data structures, CPG retail frameworks, and be
 
 Despite identical perceived and actual price per ounce values across three separate **BOGO** periods, price perception differences (PPDs) for **General Mills at Amazon Fresh** varied significantly — providing a window into how **consumer interpretation of discounts** shifts based on broader expectations and perceived necessity.
 
-## 🧩 Supporting Data Reference
+## Supporting Data Reference
 
 The visuals and insights in this spotlight are grounded in structured data from the **Perceived vs. Actual Price dataset**, which tracks behavioral pricing dynamics across retailers, brands, and promotional types.
 
-📁 **View Dataset Explanation:** [Perceived_vs_Actual_Price_Data.md](../Data_Architecture/Perceived_vs_Actual_Price_Data.md)
+**View Dataset Explanation:** [Perceived_vs_Actual_Price_Data.md](../Data_Architecture/Perceived_vs_Actual_Price_Data.md)
 
 ---
 This dataset contains fields for:
@@ -43,11 +43,11 @@ These data points show how **identical shelf prices** can result in **vastly dif
 
 ---
 
-## 📊 Visual 1: General Mills – No Promotion Price Spike (Amazon Fresh)
+## Visual 1: General Mills – No Promotion Price Spike (Amazon Fresh)
 
 ![Amazon Fresh - General Mills - No Promotion](/Images/AmazonFresh_GeneralMills_NoPromotion.png)
 
-🔹 Multiple pricing spikes occurred in:  
+**Multiple pricing spikes occurred in**:  
 • Q1 2021  
 • Q2 2022  
 • Q2 2023  
@@ -57,7 +57,7 @@ Despite **no active promotion**, perceived price rose and purchasing behavior re
 
 ---
 
-## 📊 Visual 2: All Brands – No Promotion Trend Comparison (Amazon Fresh)
+## Visual 2: All Brands – No Promotion Trend Comparison (Amazon Fresh)
 
 ![Amazon Fresh - All Brands - No Promotion](/Images/AmazonFresh_AllBrands_NoPromotion.png)
 
@@ -66,7 +66,7 @@ Despite **no active promotion**, perceived price rose and purchasing behavior re
 
 ---
 
-## 📊 Visual 3: Clearance vs. No Promotion (Amazon Fresh)
+## Visual 3: Clearance vs. No Promotion (Amazon Fresh)
 
 ![Amazon Fresh - All Brands - Clearance](/Images/AmazonFresh_AllBrands_Clearance.png)
 
@@ -78,14 +78,14 @@ Clearance created the **largest perception advantage** for General Mills at Amaz
 
 ---
 
-## 🔍 Additional Reference
+## Additional Reference
 
 For an explanation of how **Price Perception Difference (PPD)** is calculated and interpreted, refer to:  
-📘 [`Documentation/Price_Perception_Behavioral_Logic.md`](../Documentation/Price_Perception_Behavioral_Logic.md)
+ [`Documentation/Price_Perception_Behavioral_Logic.md`](../Documentation/Price_Perception_Behavioral_Logic.md)
 
 ---
 
-## 🧠 Strategic Implication
+## Strategic Implication
 
 **BOGO** and **No Promotion** periods both generate strong perception effects — but for **different behavioral reasons**. This suggests that promotional strategy should be **behaviorally segmented** based on consumer trust levels, brand positioning, and retailer framing power.
 
