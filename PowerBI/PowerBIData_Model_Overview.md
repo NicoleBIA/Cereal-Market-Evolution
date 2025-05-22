@@ -1,4 +1,4 @@
-# 📊 Power BI Data Model Overview  
+# Power BI Data Model Overview  
 
 ## 🟦 Establishing a Strong Data Foundation  
 The **Cereal Market Evolution: Pricing, Inflation & AI-Driven Consumer Insights** project leverages a structured **Power BI Data Model** to ensure **seamless relationships, accurate calculations, and scalable business intelligence insights.**  
