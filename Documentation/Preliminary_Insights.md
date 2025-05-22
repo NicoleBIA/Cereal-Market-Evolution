@@ -1,6 +1,6 @@
 #  Preliminary Insights: Retailer Pricing & Shrinkflation
 
-### 🛒 CPG Retailer Product Placement & Package Size Discrepancies
+### CPG Retailer Product Placement & Package Size Discrepancies
 
 **Key Finding**: Major CPG brands adjust **pricing, packaging, and product availability** differently across retailers, indicating **strategic SKU selection and competitive pricing agreements.**
 
@@ -14,7 +14,7 @@
 - **Target**
   - 18.1 oz Family Size – **$5.29**
   - 25.8 oz Giant Size – **$6.19**
-  - 🚫 *No 10.4 oz Regular Size or 32 oz Bagged Size offered.*
+  - *No 10.4 oz Regular Size or 32 oz Bagged Size offered.*
 - **Walmart**
   - 10.4 oz Regular Size – **$2.97**
   - 18.1 oz Family Size – **$4.93**
@@ -24,11 +24,11 @@
   - 10.4 oz Regular Size – **$1.89**
   - 18.1 oz Family Size – **$4.93**
   - 25.8 oz Giant Size – **$4.99**
-  - 🚫 *No 32 oz Bagged Size offered.*
+  - *No 32 oz Bagged Size offered.*
 - **Kroger**
   - 10.4 oz Regular Size – **$4.99** (*On Sale*)
   - 25.8 oz Giant Size – **$4.99** (*On Sale*)
-  - 🚫 *15.2 oz & 32 oz listed but unavailable, indicating a potential SKU phase-out.*
+  - *15.2 oz & 32 oz listed but unavailable, indicating a potential SKU phase-out.*
 
 ### Key Retailer-Level Insights
 - **CPG-Retailer Contracts Impact SKU Availability:** Not all retailers offer the same **sizes** or **price points**, indicating **strategic pricing agreements.**
@@ -51,10 +51,10 @@
 
 ## Next Steps: Integrating These Findings into Full Analysis
 These **early discoveries** will be quantified using:  
-✅ **Historical pricing trends**  
-✅ **CPI inflation tracking**  
-✅ **Retailer price comparisons & market positioning strategies**  
-✅ **Consumer behavior analysis in response to shrinkflation & SKU adjustments**  
+**Historical pricing trends**  
+**CPI inflation tracking**  
+**Retailer price comparisons & market positioning strategies**  
+**Consumer behavior analysis in response to shrinkflation & SKU adjustments**  
 
 ---
 
