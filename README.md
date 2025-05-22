@@ -31,7 +31,7 @@ This project follows best practices for data handling, synthetic data simulation
 
 ---
 
-## 🔐 <a name="data-governance-security--ethics"></a>Data Governance, Security & Ethics
+##  <a name="data-governance-security--ethics"></a>Data Governance, Security & Ethics
 
 > **File:** `/PowerBI/Data_Governance_Security_Ethics.md`
 
@@ -64,17 +64,17 @@ The analysis integrates multiple datasets, each contributing to the broader pric
 
 ### **Supplementary Datasets**
 
-1️⃣ **Loyalty & Brand Switching Data** → Captures consumer **repeat purchases vs. switching behavior**.
+ **Loyalty & Brand Switching Data** → Captures consumer **repeat purchases vs. switching behavior**.
 
-2️⃣ **Perceived Price vs. Actual Price Data** → Analyzes **price anchoring bias & perception gaps**.
+ **Perceived Price vs. Actual Price Data** → Analyzes **price anchoring bias & perception gaps**.
 
-3️⃣ **Price Sensitivity Score Data** → Measures **pricing elasticity per retailer & brand**.
+ **Price Sensitivity Score Data** → Measures **pricing elasticity per retailer & brand**.
 
-4️⃣ **AI-Driven Price Projection Data** → Forecasts future price trends **using CPI & historical data**.
+ **AI-Driven Price Projection Data** → Forecasts future price trends **using CPI & historical data**.
 
-5️⃣ **CPI Inflation Data (QoQ & YoY)** → Used for **macroeconomic comparison**.
+ **CPI Inflation Data (QoQ & YoY)** → Used for **macroeconomic comparison**.
 
-## 🔗 **Power BI Data Model & Relationships**
+## **Power BI Data Model & Relationships**
 The project leverages **Power BI** for advanced analytics and interactive visualizations. The datasets are linked using **`Retailer_Batch_Key`**, which acts as the **primary relational key** across tables.
 
 ### **Relationships Established**
@@ -85,20 +85,20 @@ The project leverages **Power BI** for advanced analytics and interactive visual
 - **Cereal Sales Dataset** (Primary) ↔ **CPI Inflation Data** (One-to-One, Quarter-Based)
 
 For a deep dive into Power BI’s **data model, measures, and relationships**, refer to: 
-📂  [Power BI Data Model Overview](PowerBI/PowerBIData_Model_Overview.md)
+  [Power BI Data Model Overview](PowerBI/PowerBIData_Model_Overview.md)
 
-## 📈 **Key Insights & Preliminary Findings**
-### **1️⃣ Retailer Pricing Strategies & Product Exclusivity**
+##  **Key Insights & Preliminary Findings**
+### ** Retailer Pricing Strategies & Product Exclusivity**
 - Warehouse clubs (Costco & Sam’s Club) **offer better price stability** but with fewer cereal SKUs.
 - Traditional grocery retailers show **higher price fluctuations** based on promotions & demand.
 - Private label brands are **more resilient during inflation spikes**, with Walmart & Kroger seeing a rise in store-brand sales.
 
-### **2️⃣ Shrinkflation & Product Downsizing**
+### ** Shrinkflation & Product Downsizing**
 - Example: **Kellogg’s Frosted Mini Wheats** reduced from **24 oz to 20 oz** while keeping the **“Family Size”** label.
 - Consumers are often **unaware** of these changes unless tracked at the unit price ($/oz) level.
 - Some retailers still have **older inventory**, leading to mixed product sizes in the market.
 
-### **3️⃣ AI-Driven Price Forecasting**
+### ** AI-Driven Price Forecasting**
 - Inflation-adjusted predictions indicate **cereal prices will continue rising** but at a **slower pace**.
 - High-price elasticity brands (e.g., **Kashi, Quaker**) are expected to see **lower demand shifts**.
 
@@ -109,24 +109,24 @@ For a deep dive into Power BI’s **data model, measures, and relationships**, r
 - **Python (Upcoming)** → Potential machine learning integration for advanced price prediction.
 
 ## **Repository Structure**
-📂 `Documentation/` → Contains **all project-related documentation & insights**.
+ `Documentation/` → Contains **all project-related documentation & insights**.
 
-📂 `PowerBI/` → **DAX Queries, Data Model Overview, and Power BI reports**.
+ `PowerBI/` → **DAX Queries, Data Model Overview, and Power BI reports**.
 
-📂 `SQL/` → (Reserved for future database queries, if needed.)
+ `SQL/` → (Reserved for future database queries, if needed.)
 
-📂 `data/` → **All cleaned datasets & raw data used in this project**.
+ `data/` → **All cleaned datasets & raw data used in this project**.
 
-📂 `Images/` → Screenshots & reference images for markdown files.
+ `Images/` → Screenshots & reference images for markdown files.
 
 ## **Future Roadmap & Next Steps**
-✅ **Expand Visualizations in Power BI** (Price elasticity, discount trends, consumer segmentation).
+ **Expand Visualizations in Power BI** (Price elasticity, discount trends, consumer segmentation).
 
-✅ **Refine AI-Driven Forecasting Model** (Integrate CPI trends into pricing insights).
+ **Refine AI-Driven Forecasting Model** (Integrate CPI trends into pricing insights).
 
-✅ **Investigate Deep Brand Switching Patterns** (Which brands lose customers first during inflation?).
+ **Investigate Deep Brand Switching Patterns** (Which brands lose customers first during inflation?).
 
-✅ **Consumer Behavior Heatmaps** (Potential integration into Power BI dashboard).
+ **Consumer Behavior Heatmaps** (Potential integration into Power BI dashboard).
 
 ---
 **Stay tuned for continuous updates & insights as we analyze evolving market trends!**
