@@ -31,9 +31,11 @@
   - *15.2 oz & 32 oz listed but unavailable, indicating a potential SKU phase-out.*
 
 ### Key Retailer-Level Insights
+
 - **CPG-Retailer Contracts Impact SKU Availability:** Not all retailers offer the same **sizes** or **price points**, indicating **strategic pricing agreements.**
 - **Naming Conventions Differ by Retailer:** Walmart calls the 25.8 oz size *Mega Size*, while other retailers label it *Giant Size*. This could be a **psychological pricing tactic** to **enhance perceived value.**
 - **Product Phase-Outs Happen Gradually:** Kroger listing the **15.2 oz & 32 oz sizes as “Unavailable”** likely means they are being **phased out**, a common **CPG lifecycle strategy.**
+  
 -### Implications & Insights
 - **Hidden Inflation in Grocery Products:** Consumers **may not notice** that they’re getting **less product per purchase.**
 - **Strategic Labeling Choices:** Despite downsizing, Kellogg’s **continues using the "Family Size" label,** ensuring consumers still perceive the product as a "value" option.
