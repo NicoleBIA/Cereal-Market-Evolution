@@ -33,7 +33,7 @@ This project follows best practices for data handling, synthetic data simulation
 
 ## 🔐 <a name="data-governance-security--ethics"></a>Data Governance, Security & Ethics
 
-> 📁 **File:** `/PowerBI/Data_Governance_Security_Ethics.md`
+> **File:** `/PowerBI/Data_Governance_Security_Ethics.md`
 
 This section outlines the project’s simulated context, governance protocols, and ethical standards, including:
 - Transparency about synthetic data use  
@@ -42,7 +42,7 @@ This section outlines the project’s simulated context, governance protocols, a
 - Alignment with real-world stakeholder expectations for confidentiality & trust  
 
 
-## 📊 **Key Business Questions & Analysis Goals**
+## **Key Business Questions & Analysis Goals**
 This project investigates the following **critical business intelligence questions**:
 - How have **cereal prices changed over time** across different retailers?
 - Which retailers show the most **price volatility and stability**?
@@ -51,7 +51,7 @@ This project investigates the following **critical business intelligence questio
 - How do **warehouse clubs (Costco & Sam’s Club)** compare to standard grocery retailers in price stability?
 - How does real-world **cereal pricing compare to CPI inflation trends**?
 
-## 📂 **Data Sources & Structure**
+## **Data Sources & Structure**
 The analysis integrates multiple datasets, each contributing to the broader pricing and consumer behavior trends.
 
 ### **Primary Dataset: Cereal Sales & Pricing**
@@ -102,13 +102,13 @@ For a deep dive into Power BI’s **data model, measures, and relationships**, r
 - Inflation-adjusted predictions indicate **cereal prices will continue rising** but at a **slower pace**.
 - High-price elasticity brands (e.g., **Kashi, Quaker**) are expected to see **lower demand shifts**.
 
-## ⚙️ **Tools & Technologies Used**
+## **Tools & Technologies Used**
 [![Data Governance Badge](https://img.shields.io/badge/Data%20Governance-Compliant-blueviolet?style=flat-square)](#data-governance-security--ethics)  
 - **Power BI** → Data visualization & interactive dashboards.
 - **DAX Queries** → Custom calculations for sales, price elasticity, and unique retailer counts.
 - **Python (Upcoming)** → Potential machine learning integration for advanced price prediction.
 
-## 🗂 **Repository Structure**
+## **Repository Structure**
 📂 `Documentation/` → Contains **all project-related documentation & insights**.
 
 📂 `PowerBI/` → **DAX Queries, Data Model Overview, and Power BI reports**.
