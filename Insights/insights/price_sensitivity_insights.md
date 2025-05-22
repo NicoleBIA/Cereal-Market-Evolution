@@ -1,4 +1,4 @@
-## 🧠 Price Sensitivity vs. Total Sales by Retailer – Strategic Insights
+## Price Sensitivity vs. Total Sales by Retailer – Strategic Insights
 
 This visual explores the relationship between **Price Sensitivity Scores** and **Total Sales ($)** across major U.S. cereal retailers, with **bubble size representing Sales Volume (units sold)**.
 
@@ -16,7 +16,7 @@ In an inflation-sensitive market, retailers who strategically **respond to prici
 
 ---
 
-## 💡 Key Insight: Price Sensitivity Drives Strategic Sales Positioning
+## Key Insight: Price Sensitivity Drives Strategic Sales Positioning
 
 - Retailers with **higher Price Sensitivity Scores** generally see **higher total sales**, suggesting that **strategic responsiveness to pricing** is a growth driver when backed by volume.
 
