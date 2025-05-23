@@ -13,7 +13,7 @@ In a world overflowing with dashboards, I create intelligence products.
 
 ## 🟦 The Problem I Noticed
 
-As I explored the BI and analytics community—especially on platforms like LinkedIn—I noticed a trend:
+As I explored the BI and analytics community especially on platforms like LinkedIn; I noticed a trend:
 
 - Pages filled with mini charts, KPI dials, and decorative layouts  
 - Little to no interpretation, context, or actionable insight  
