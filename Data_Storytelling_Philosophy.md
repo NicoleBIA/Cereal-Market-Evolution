@@ -5,7 +5,7 @@
 
 ## 🟪 Why Storytelling Matters in Business Intelligence
 
-Business Intelligence isn’t just about charts, dashboards, or tools—it’s about helping real people make smarter decisions. I believe data should do more than inform. It should *guide, influence, and provoke action.*
+Business Intelligence isn’t just about charts, dashboards, or tools; it’s about helping real people make smarter decisions. I believe data should do more than inform. It should *guide, influence, and provoke action.*
 
 In a world overflowing with dashboards, I create intelligence products.
 
