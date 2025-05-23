@@ -42,8 +42,8 @@ Dashboards shouldn’t just show the *what*. They must uncover the *why*, illumi
 
 I don’t create displays. I create stories with strategic clarity. My design choices are deliberate and layered:
 
-- **Visualization selection that fits the story** — choosing the *right* chart type (bar, line, area, pie, scatter, etc.) based on what the data needs to communicate, not just what looks interesting  
-- **Dynamic segmentation and purposeful filtering** — slicing the data to surface meaningful contrasts and reduce cognitive overload, ensuring the right insight emerges at the right moment  
+- **Visualization selection that fits the story** choosing the *right* chart type (bar, line, area, pie, scatter, etc.) based on what the data needs to communicate, not just what looks interesting  
+- **Dynamic segmentation and purposeful filtering** slicing the data to surface meaningful contrasts and reduce cognitive overload, ensuring the right insight emerges at the right moment  
 - **Insight boxes** to synthesize meaning  
 - **Strategic recommendations** to guide action  
 - **Narrative captions** to direct the user’s eye  
